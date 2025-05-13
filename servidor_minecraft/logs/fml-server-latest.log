@@ -3015,3 +3015,28 @@ java.lang.NullPointerException
 [03:13:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:14:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:15:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:16:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:<init>:92]: Making castle at -768, 768. center is -727, 808
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:<init>:93]: Natural center at -768, 768
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:buildTowerMaze:197]: Tower maze type 0 complete!
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:buildTowerMaze:200]: Tower maze type 1 INCOMPLETE, retrying!
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:buildTowerMaze:200]: Tower maze type 1 INCOMPLETE, retrying!
+[03:16:26] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.TFFinalCastlePieces$Main:buildTowerMaze:197]: Tower maze type 1 complete!
+[03:16:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:17:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:17:53] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 200 packets have leaked. Top offenders
+[03:17:53] [Server thread/ERROR] [FML/]: 	 gokiStats : 187
+[03:17:53] [Server thread/ERROR] [FML/]: 	 FML : 11
+[03:17:53] [Server thread/ERROR] [FML/]: 	 eplus : 2
+[03:18:00] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.mushroomtower.ComponentTFMushroomTowerMain:makeAscenderTower:128]: Main tower failed to branch off at index 2
+[03:18:00] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.mushroomtower.ComponentTFMushroomTowerWing:func_74861_a:85]: Made bridge back to new main
+[03:18:00] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.mushroomtower.ComponentTFMushroomTowerMain:makeAscenderTower:123]: Main tower made a bridge to another tower
+[03:18:00] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.mushroomtower.ComponentTFMushroomTowerWing:func_74861_a:85]: Made bridge back to new main
+[03:18:00] [Server thread/INFO] [STDOUT/]: [twilightforest.structures.mushroomtower.ComponentTFMushroomTowerMain:makeAscenderTower:123]: Main tower made a bridge to another tower
+[03:18:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:20:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:21:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:22:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:23:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:24:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:25:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
