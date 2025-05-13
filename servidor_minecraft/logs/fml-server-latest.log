@@ -2950,3 +2950,18 @@ java.lang.NullPointerException
 [02:33:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:34:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:35:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:35:33] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityHumanSkeleton[' Skeleton'/51183, l='world', x=305.90, y=61.00, z=638.44] EntityPlayerMP['Angelichi39'/7841, l='world', x=310.98, y=61.00, z=638.78]
+[02:35:33] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:36:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:36:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:37:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:38:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:39:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:39:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:41:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:42:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:42:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:43:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:44:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:45:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
