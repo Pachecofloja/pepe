@@ -2932,3 +2932,21 @@ java.lang.NullPointerException
 [02:23:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:24:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:24:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:26:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:28:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:29:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:30:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:30:49] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 100 packets have leaked. Top offenders
+[02:30:49] [Server thread/ERROR] [FML/]: 	 gokiStats : 87
+[02:30:49] [Server thread/ERROR] [FML/]: 	 FML : 11
+[02:30:49] [Server thread/ERROR] [FML/]: 	 eplus : 2
+[02:30:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:31:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:32:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:33:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:33:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:34:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:35:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
