@@ -144,3 +144,5 @@
 [03:24:51] [Server thread/INFO]: Arthuro has just earned the achievement [Touched by Undeath]
 [03:27:12] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [03:27:12] [Server thread/INFO]: Angelichi39 left the game
+[03:50:44] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:50:44] [Server thread/INFO]: Arthuro left the game
