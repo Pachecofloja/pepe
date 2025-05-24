@@ -3045,3 +3045,59 @@ Caused by: java.lang.IllegalArgumentException
 [03:09:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:10:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:11:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:12:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:12:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:13:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:14:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:15:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:15:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:16:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:17:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:18:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:18:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:19:01] [Server thread/INFO] [FML/]: [TwilightForest] Player died with charm of keeping I!  Keep armor and current item!
+[03:19:03] [Server thread/INFO] [FML/]: [TwilightForest] Player Angelichi39 respawned and recieved items held in storage
+[03:19:07] [Server thread/INFO] [FML/]: [TwilightForest] Player touched the portal block.  Sending the player to dimension 7
+[03:19:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:20:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:21:02] [Server thread/INFO] [FML/]: [TwilightForest] Player died with charm of keeping I!  Keep armor and current item!
+[03:21:03] [Server thread/INFO] [FML/]: [TwilightForest] Player Angelichi39 respawned and recieved items held in storage
+[03:21:09] [Server thread/INFO] [FML/]: [TwilightForest] Player touched the portal block.  Sending the player to dimension 7
+[03:21:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:21:54] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 300 packets have leaked. Top offenders
+[03:21:54] [Server thread/ERROR] [FML/]: 	 gokiStats : 298
+[03:21:54] [Server thread/ERROR] [FML/]: 	 FML : 1
+[03:21:54] [Server thread/ERROR] [FML/]: 	 eplus : 1
+[03:21:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:22:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:23:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:24:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:24:12] [Server thread/INFO] [FML/]: Unloading dimension 7
+[03:24:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:25:01] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: first encounter (5 occurences).
+
+[03:25:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:25:51] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 10 times.
+
+[03:26:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:26:41] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 15 times.
+
+[03:27:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:27:31] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 20 times.
+
+[03:27:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:28:21] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 25 times.
+
+[03:28:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:29:11] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 30 times.
+
+[03:29:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:30:01] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 35 times.
+
+[03:30:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:30:51] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 40 times.
+
+[03:30:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:31:41] [Server thread/DEBUG] [FML/]: The world 72f35738 (world) may have leaked: seen 45 times.
+
+[03:31:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
