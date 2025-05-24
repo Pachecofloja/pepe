@@ -2895,3 +2895,27 @@ Caused by: java.lang.IllegalArgumentException
 [02:18:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:19:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:20:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:21:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:21:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:22:12] [Server thread/INFO] [FML/]: [TwilightForest] Player touched the portal block.  Sending the player to dimension 7
+[02:22:15] [Server thread/INFO] [FML/]: [TwilightForest] Player touched the portal block.  Sending the player to dimension 7
+[02:22:27] [Server thread/INFO] [FML/]: [TwilightForest] Player touched the portal block.  Sending the player to dimension 7
+[02:22:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:23:12] [Server thread/INFO] [STDOUT/]: [twilightforest.entity.ai.EntityAITFThrowRider:func_75249_e:68]: throw!
+[02:23:18] [Server thread/INFO] [STDOUT/]: [twilightforest.entity.ai.EntityAITFThrowRider:func_75249_e:68]: throw!
+[02:23:19] [Server thread/INFO] [STDOUT/]: [twilightforest.entity.ai.EntityAITFThrowRider:func_75249_e:68]: throw!
+[02:23:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:24:06] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 100 packets have leaked. Top offenders
+[02:24:06] [Server thread/ERROR] [FML/]: 	 gokiStats : 98
+[02:24:06] [Server thread/ERROR] [FML/]: 	 FML : 1
+[02:24:06] [Server thread/ERROR] [FML/]: 	 eplus : 1
+[02:24:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:24:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:26:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:28:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:29:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:30:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:30:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
