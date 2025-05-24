@@ -51,3 +51,66 @@
 [02:49:26] [Server thread/INFO]: [ThebrosXD: Teleported Angelichi39 to ThebrosXD]
 [02:49:29] [Server thread/INFO]: [ThebrosXD: Teleported Arthuro to Angelichi39]
 [02:51:15] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Normal]
+[02:51:43] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Peaceful]
+[02:51:48] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Normal]
+[02:55:23] [Server thread/INFO]: Arthuro was slain by Minotaur
+[02:55:47] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:56:06] [Server thread/INFO]: Arthuro was slain by Vescavor
+[02:56:20] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:57:17] [Server thread/INFO]: Arthuro was slain by Vescavor
+[02:57:28] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:57:42] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
+[02:58:05] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:58:25] [Server thread/INFO]: Arthuro was slain by Vescavor
+[02:58:35] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:59:06] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 522.5,32.5,510.5]
+[02:59:22] [Server thread/WARN]: ThebrosXD moved wrongly!
+[02:59:35] [Server thread/WARN]: ThebrosXD moved wrongly!
+[03:00:28] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 522.5,32.5,510.5]
+[03:01:14] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:01:28] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[03:01:48] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:01:53] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:01:53] [Server thread/INFO]: ThebrosXD left the game
+[03:01:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[03:02:06] [Server thread/INFO]: ThebrosXD[/127.7.14.88:43969] logged in with entity id 107602 at (530.6999999880791, 19.827117314324568, 534.1431364062519)
+[03:02:06] [Server thread/INFO]: ThebrosXD joined the game
+[03:02:32] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:02:32] [Server thread/INFO]: ThebrosXD left the game
+[03:02:38] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:02:55] [Server thread/INFO]: ThebrosXD[/127.7.14.88:33117] logged in with entity id 108397 at (522.1230330167878, 20.234638561275986, 549.6999999880791)
+[03:02:55] [Server thread/INFO]: ThebrosXD joined the game
+[03:03:00] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
+[03:03:32] [Server thread/WARN]: Arthuro moved wrongly!
+[03:03:37] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:03:55] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Normal]
+[03:03:56] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:04:27] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
+[03:04:43] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:04:43] [Server thread/INFO]: Arthuro left the game
+[03:04:53] [Server thread/INFO]: Arthuro[/127.207.17.91:33439] logged in with entity id 111222 at (-250.73814140094103, 64.0, -72.71455719545848)
+[03:04:53] [Server thread/INFO]: Arthuro joined the game
+[03:05:14] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[03:05:22] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
+[03:05:51] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:05:51] [Server thread/INFO]: Arthuro left the game
+[03:06:03] [Server thread/INFO]: Arthuro[/127.207.17.91:59599] logged in with entity id 112574 at (574.05217613483, 19.0, 480.40386854023797)
+[03:06:03] [Server thread/INFO]: Arthuro joined the game
+[03:06:06] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:06:06] [Server thread/INFO]: Arthuro left the game
+[03:06:19] [Server thread/INFO]: Arthuro[/127.207.17.91:36881] logged in with entity id 112719 at (574.05217613483, 19.0, 480.40386854023797)
+[03:06:19] [Server thread/INFO]: Arthuro joined the game
+[03:07:32] [Server thread/INFO]: [Arthuro: Teleported Arthuro to 542.5,20.5,542.5]
+[03:07:45] [Server thread/INFO]: Arthuro was slain by Minotaur
+[03:07:54] [Server thread/INFO]: [ThebrosXD: Set own game mode to Creative Mode]
+[03:08:25] [Server thread/INFO]: [Arthuro: Teleported Arthuro to 542.5,20.5,542.5]
+[03:08:30] [Server thread/INFO]: Arthuro was slain by Vescavor
+[03:08:40] [Server thread/INFO]: [Arthuro: Teleported Arthuro to 542.5,20.5,542.5]
+[03:08:45] [Server thread/INFO]: Arthuro was slain by Minotaur
+[03:09:04] [Server thread/INFO]: [Arthuro: Teleported Arthuro to 542.5,20.5,542.5]
+[03:09:05] [Server thread/INFO]: Arthuro was slain by Minotaur
+[03:09:13] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Peaceful]
+[03:09:14] [Server thread/INFO]: [Arthuro: Teleported Arthuro to 539.5,20.5,541.5]
+[03:10:07] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
+[03:10:22] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
+[03:11:37] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
