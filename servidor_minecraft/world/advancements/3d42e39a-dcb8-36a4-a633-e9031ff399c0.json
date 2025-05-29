@@ -120,6 +120,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-29 03:36:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-29 02:48:48 +0000"
@@ -166,9 +172,16 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-05-29 03:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-29 03:17:16 +0000",
+      "sweet_berries": "2025-05-29 03:34:32 +0000",
       "cooked_salmon": "2025-05-29 02:43:09 +0000"
     },
     "done": false
@@ -199,6 +212,12 @@
       "has_item": "2025-05-29 02:44:27 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-05-29 03:34:29 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {

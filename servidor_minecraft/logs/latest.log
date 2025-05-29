@@ -3694,3 +3694,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [29May2025 03:24:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 withered away whilst fighting Nightmare Stalker
 [29May2025 03:24:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
 [29May2025 03:26:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to 8.500000, 11.000000, -100.500000]
+[29May2025 03:31:55.440] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20141, l='ServerLevel[world]', x=379.50, y=22.00, z=94.50] as it would cause deadlock
+[29May2025 03:32:04.125] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29May2025 03:32:04.141] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/20200, l='ServerLevel[world]', x=379.50, y=22.00, z=102.50] as it would cause deadlock
+[29May2025 03:32:43.062] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=430, y=-3, z=90}
+[29May2025 03:32:43.062] [Worker-Main-38/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=430, y=-3, z=90}
+[29May2025 03:34:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Deceived Hopes]
