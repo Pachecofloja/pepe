@@ -159,8 +159,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-29 02:33:36 +0000",
+      "minecraft:river": "2025-05-29 04:43:20 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:25:26 +0000",
-      "minecraft:deep_dark": "2025-05-29 04:03:53 +0000"
+      "minecraft:deep_dark": "2025-05-29 04:03:53 +0000",
+      "minecraft:meadow": "2025-05-29 04:43:52 +0000",
+      "minecraft:plains": "2025-05-29 04:43:42 +0000"
     },
     "done": false
   },
@@ -261,6 +264,24 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-29 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-29 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-29 04:47:08 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-05-29 04:22:56 +0000"
@@ -278,6 +299,12 @@
       "sweet_berries": "2025-05-29 04:33:42 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-05-29 04:44:34 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {

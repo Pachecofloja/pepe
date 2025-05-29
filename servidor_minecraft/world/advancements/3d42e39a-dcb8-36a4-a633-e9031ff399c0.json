@@ -209,10 +209,11 @@
     "criteria": {
       "seared_ingot_tank": "2025-05-29 03:22:04 +0000",
       "seared_basin": "2025-05-29 03:22:16 +0000",
+      "seared_table": "2025-05-29 04:45:11 +0000",
       "seared_faucet": "2025-05-29 03:22:14 +0000",
       "seared_melter": "2025-05-29 03:21:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
@@ -287,9 +288,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-05-29 04:43:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-29 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-05-29 04:42:50 +0000"
     },
     "done": true
   },
