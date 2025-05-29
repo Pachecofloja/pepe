@@ -1,31 +1,7 @@
 {
-  "tconstruct:tools/materials_and_you": {
-    "criteria": {
-      "crafted_book": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:internal/starting_book": {
-    "criteria": {
-      "tick": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-05-27 04:18:09 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-05-27 04:18:10 +0000"
     },
     "done": true
   },
@@ -35,33 +11,9 @@
     },
     "done": true
   },
-  "pfm:recipes/root": {
-    "criteria": {
-      "has_planks": "2025-05-27 04:21:24 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/root": {
-    "criteria": {
-      "requirement": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-05-27 04:18:09 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-05-27 04:18:10 +0000"
     },
     "done": true
   },
@@ -77,33 +29,9 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-05-27 04:21:22 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-05-27 04:18:10 +0000"
-    },
-    "done": true
-  },
   "what_gecko:what_the_geck": {
     "criteria": {
       "what_the_geck": "2025-05-27 04:18:09 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-05-27 04:18:10 +0000"
     },
     "done": true
   },
@@ -117,6 +45,78 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-05-27 04:18:09 +0000",
       "inv_changed-diamond": "2025-05-27 04:18:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-27 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-05-27 04:21:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-05-27 04:21:24 +0000"
     },
     "done": true
   },
