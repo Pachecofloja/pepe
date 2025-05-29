@@ -128,9 +128,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-29 03:11:17 +0000",
       "minecraft:drowned": "2025-05-29 02:55:23 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-29 03:11:08 +0000"
+    },
+    "done": true
   },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
@@ -146,8 +153,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-29 03:24:10 +0000",
       "minecraft:river": "2025-05-29 02:48:23 +0000",
-      "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000"
+      "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000",
+      "minecraft:plains": "2025-05-29 03:07:25 +0000"
     },
     "done": false
   },
@@ -159,6 +168,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-29 03:17:16 +0000",
       "cooked_salmon": "2025-05-29 02:43:09 +0000"
     },
     "done": false
@@ -169,6 +179,15 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_ingot_tank": "2025-05-29 03:22:04 +0000",
+      "seared_basin": "2025-05-29 03:22:16 +0000",
+      "seared_faucet": "2025-05-29 03:22:14 +0000",
+      "seared_melter": "2025-05-29 03:21:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-29 02:47:12 +0000"
@@ -178,6 +197,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-05-29 02:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-29 03:20:23 +0000"
     },
     "done": true
   },

@@ -3674,3 +3674,23 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [29May2025 02:55:34.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
 [29May2025 02:55:34.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
 [29May2025 02:55:34.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[29May2025 03:07:13.411] [Worker-Main-45/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13782, l='ServerLevel[world]', x=-285.50, y=19.00, z=79.50] as it would cause deadlock
+[29May2025 03:07:15.774] [Worker-Main-45/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13835, l='ServerLevel[world]', x=-262.50, y=-53.00, z=140.50] as it would cause deadlock
+[29May2025 03:07:20.256] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[29May2025 03:07:20.281] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13922, l='ServerLevel[world]', x=-293.50, y=-3.00, z=113.50] as it would cause deadlock
+[29May2025 03:07:20.281] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13924, l='ServerLevel[world]', x=-288.50, y=-3.00, z=118.50] as it would cause deadlock
+[29May2025 03:07:20.670] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13959, l='ServerLevel[world]', x=-262.50, y=-53.00, z=148.50] as it would cause deadlock
+[29May2025 03:07:27.340] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/14030, l='ServerLevel[world]', x=-316.50, y=-3.00, z=117.50] as it would cause deadlock
+[29May2025 03:07:27.368] [Worker-Main-45/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14032, l='ServerLevel[world]', x=-316.50, y=-3.00, z=109.50] as it would cause deadlock
+[29May2025 03:07:32.677] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29May2025 03:07:33.178] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14136, l='ServerLevel[world]', x=-327.50, y=22.00, z=126.50] as it would cause deadlock
+[29May2025 03:07:33.697] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/14162, l='ServerLevel[world]', x=-327.50, y=22.00, z=134.50] as it would cause deadlock
+[29May2025 03:11:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro has made the advancement [Not Today, Thank You]
+[29May2025 03:11:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Isn't It Iron Pick]
+[29May2025 03:20:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Take Aim]
+[29May2025 03:20:17.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Junior Summoner]
+[29May2025 03:20:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro has made the advancement [Acquire Hardware]
+[29May2025 03:24:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[29May2025 03:24:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 withered away whilst fighting Nightmare Stalker
+[29May2025 03:24:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[29May2025 03:26:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to 8.500000, 11.000000, -100.500000]
