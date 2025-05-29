@@ -126,9 +126,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-29 02:55:23 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-05-29 02:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-29 02:55:23 +0000"
     },
     "done": true
   },
