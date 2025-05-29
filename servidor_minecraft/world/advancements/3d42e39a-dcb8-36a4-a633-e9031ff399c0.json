@@ -53,12 +53,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-27 04:28:35 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-05-27 04:19:14 +0000"
@@ -80,12 +74,6 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-05-27 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-05-27 04:28:35 +0000"
     },
     "done": true
   },
@@ -117,6 +105,18 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-05-27 04:19:14 +0000",
       "inv_changed-diamond": "2025-05-27 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-27 04:28:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-27 04:28:35 +0000"
     },
     "done": true
   },
