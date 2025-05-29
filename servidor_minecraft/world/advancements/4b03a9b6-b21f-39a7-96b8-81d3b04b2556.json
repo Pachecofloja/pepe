@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-29 04:19:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_watch_tower": "2025-05-29 03:44:35 +0000"
@@ -236,6 +242,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "snowblossom_grove": "2025-05-29 04:24:21 +0000",
       "maple_woods": "2025-05-29 03:49:13 +0000",
       "crag": "2025-05-29 03:50:13 +0000"
     },
@@ -256,6 +263,12 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-05-29 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-29 04:24:32 +0000"
     },
     "done": true
   },

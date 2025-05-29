@@ -234,6 +234,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "snowblossom_grove": "2025-05-29 04:24:25 +0000",
       "maple_woods": "2025-05-29 03:49:49 +0000"
     },
     "done": false
@@ -277,6 +278,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-29 04:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-29 04:26:48 +0000"
     },
     "done": true
   },
