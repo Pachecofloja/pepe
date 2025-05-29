@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "pfm:recipes/root": {
-    "criteria": {
-      "has_planks": "2025-05-29 02:02:45 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-29 01:56:59 +0000"
@@ -83,12 +77,6 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-05-29 02:00:49 +0000"
-    },
-    "done": true
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-05-29 01:56:59 +0000"
@@ -117,6 +105,48 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-05-29 01:56:59 +0000",
       "inv_changed-diamond": "2025-05-29 01:56:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-05-29 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-05-29 02:02:45 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-29 02:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-29 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-29 02:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-29 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-05-29 02:07:59 +0000"
     },
     "done": true
   },
