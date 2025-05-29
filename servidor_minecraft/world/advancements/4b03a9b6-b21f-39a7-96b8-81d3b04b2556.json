@@ -177,7 +177,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-29 02:30:08 +0000",
       "minecraft:spider": "2025-05-29 02:48:15 +0000",
-      "minecraft:zombie": "2025-05-29 03:07:30 +0000"
+      "minecraft:zombie": "2025-05-29 03:07:30 +0000",
+      "minecraft:zombie_villager": "2025-05-29 03:48:39 +0000"
     },
     "done": false
   },
@@ -223,9 +224,34 @@
     },
     "done": false
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-05-29 03:49:13 +0000",
+      "crag": "2025-05-29 03:50:13 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_watch_tower": "2025-05-29 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-29 03:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-29 03:55:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2025-05-29 03:49:13 +0000"
     },
     "done": true
   },

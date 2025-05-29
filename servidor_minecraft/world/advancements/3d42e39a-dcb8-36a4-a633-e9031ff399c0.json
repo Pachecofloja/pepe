@@ -226,5 +226,17 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-05-29 03:49:49 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2025-05-29 03:49:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
