@@ -132,6 +132,7 @@
       "cooked_mutton": "2025-05-29 03:17:16 +0000",
       "sweet_berries": "2025-05-29 03:34:32 +0000",
       "spider_eye": "2025-05-29 04:10:28 +0000",
+      "bread": "2025-05-29 04:53:33 +0000",
       "cookie": "2025-05-29 03:43:40 +0000",
       "cooked_salmon": "2025-05-29 02:43:09 +0000"
     },
@@ -261,6 +262,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-29 04:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-29 04:51:06 +0000"
     },
     "done": true
   },

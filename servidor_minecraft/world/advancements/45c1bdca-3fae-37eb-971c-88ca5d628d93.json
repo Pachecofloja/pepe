@@ -223,6 +223,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-05-29 03:35:41 +0000",
+      "bread": "2025-05-29 04:55:51 +0000",
       "cookie": "2025-05-29 03:44:01 +0000"
     },
     "done": false
@@ -251,6 +252,12 @@
       "maple_woods": "2025-05-29 04:02:09 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-29 04:51:04 +0000"
+    },
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -299,6 +306,12 @@
       "sweet_berries": "2025-05-29 04:33:42 +0000"
     },
     "done": false
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-05-29 04:50:29 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
