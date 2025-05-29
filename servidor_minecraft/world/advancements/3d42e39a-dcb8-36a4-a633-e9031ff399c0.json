@@ -120,5 +120,54 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-29 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-05-29 02:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-29 02:48:23 +0000",
+      "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-05-29 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_salmon": "2025-05-29 02:43:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-29 02:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-29 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-05-29 02:44:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
