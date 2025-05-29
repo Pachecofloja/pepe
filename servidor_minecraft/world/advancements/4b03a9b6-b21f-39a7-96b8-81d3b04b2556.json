@@ -300,10 +300,17 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "amethyst_bronze": "2025-05-29 04:43:18 +0000",
+      "seared_stone": "2025-05-29 05:00:59 +0000",
       "copper": "2025-05-29 04:43:18 +0000",
       "chorus": "2025-05-29 04:43:18 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-29 04:57:27 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {

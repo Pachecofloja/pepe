@@ -224,7 +224,8 @@
     "criteria": {
       "sweet_berries": "2025-05-29 03:35:41 +0000",
       "bread": "2025-05-29 04:55:51 +0000",
-      "cookie": "2025-05-29 03:44:01 +0000"
+      "cookie": "2025-05-29 03:44:01 +0000",
+      "cod": "2025-05-29 04:59:34 +0000"
     },
     "done": false
   },
@@ -303,7 +304,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-05-29 04:33:42 +0000"
+      "sweet_berries": "2025-05-29 04:33:42 +0000",
+      "sugar_cane": "2025-05-29 05:01:24 +0000"
     },
     "done": false
   },
