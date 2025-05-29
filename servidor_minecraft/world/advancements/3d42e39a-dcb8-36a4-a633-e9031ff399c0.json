@@ -128,8 +128,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-05-29 04:08:59 +0000",
       "cooked_mutton": "2025-05-29 03:17:16 +0000",
       "sweet_berries": "2025-05-29 03:34:32 +0000",
+      "spider_eye": "2025-05-29 04:10:28 +0000",
       "cookie": "2025-05-29 03:43:40 +0000",
       "cooked_salmon": "2025-05-29 02:43:09 +0000"
     },
@@ -140,6 +142,7 @@
       "minecraft:taiga": "2025-05-29 03:24:10 +0000",
       "minecraft:river": "2025-05-29 02:48:23 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000",
+      "minecraft:snowy_taiga": "2025-05-29 04:15:25 +0000",
       "minecraft:deep_dark": "2025-05-29 04:04:18 +0000",
       "minecraft:plains": "2025-05-29 03:07:25 +0000"
     },
@@ -178,6 +181,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-29 03:11:17 +0000",
+      "minecraft:skeleton": "2025-05-29 04:14:04 +0000",
       "minecraft:zombie": "2025-05-29 04:04:02 +0000",
       "minecraft:drowned": "2025-05-29 02:55:23 +0000"
     },
@@ -249,6 +253,42 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-05-29 04:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-29 04:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-29 04:15:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-29 04:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-29 04:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-29 04:07:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-05-29 04:07:44 +0000"
     },
     "done": true
   },
