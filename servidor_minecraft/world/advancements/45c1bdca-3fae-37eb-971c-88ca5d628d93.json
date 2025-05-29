@@ -204,7 +204,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-05-29 03:35:41 +0000"
+      "sweet_berries": "2025-05-29 03:35:41 +0000",
+      "cookie": "2025-05-29 03:44:01 +0000"
     },
     "done": false
   },
