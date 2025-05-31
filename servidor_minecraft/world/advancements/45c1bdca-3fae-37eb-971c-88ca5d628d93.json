@@ -159,8 +159,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-29 02:33:36 +0000",
+      "minecraft:birch_forest": "2025-05-31 02:19:08 +0000",
       "minecraft:river": "2025-05-29 04:43:20 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:25:26 +0000",
+      "minecraft:snowy_taiga": "2025-05-31 02:09:38 +0000",
+      "minecraft:grove": "2025-05-31 02:07:40 +0000",
+      "minecraft:forest": "2025-05-31 02:16:25 +0000",
+      "minecraft:frozen_peaks": "2025-05-31 02:07:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-31 02:18:13 +0000",
       "minecraft:deep_dark": "2025-05-29 04:03:53 +0000",
       "minecraft:meadow": "2025-05-29 04:43:52 +0000",
       "minecraft:plains": "2025-05-29 04:43:42 +0000"
@@ -238,7 +244,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "snowblossom_grove": "2025-05-29 04:24:57 +0000",
-      "maple_woods": "2025-05-29 04:02:09 +0000"
+      "highland": "2025-05-31 02:13:38 +0000",
+      "clover_patch": "2025-05-31 02:19:21 +0000",
+      "maple_woods": "2025-05-29 04:02:09 +0000",
+      "old_growth_dead_forest": "2025-05-31 02:10:22 +0000",
+      "seasonal_forest": "2025-05-31 02:14:17 +0000",
+      "pumpkin_patch": "2025-05-31 02:13:47 +0000",
+      "crag": "2025-05-31 02:12:52 +0000",
+      "snowy_maple_woods": "2025-05-31 02:10:25 +0000"
     },
     "done": false
   },
@@ -326,6 +339,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-29 04:51:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-05-31 02:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 02:16:30 +0000"
     },
     "done": true
   },

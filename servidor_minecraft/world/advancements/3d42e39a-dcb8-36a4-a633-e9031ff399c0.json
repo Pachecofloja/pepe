@@ -132,8 +132,10 @@
       "cooked_mutton": "2025-05-29 03:17:16 +0000",
       "sweet_berries": "2025-05-29 03:34:32 +0000",
       "spider_eye": "2025-05-29 04:10:28 +0000",
+      "cooked_cod": "2025-05-31 02:02:52 +0000",
       "bread": "2025-05-29 04:53:33 +0000",
       "cookie": "2025-05-29 03:43:40 +0000",
+      "cooked_chicken": "2025-05-31 02:11:51 +0000",
       "cooked_salmon": "2025-05-29 02:43:09 +0000"
     },
     "done": false
@@ -141,11 +143,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-29 03:24:10 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 02:15:04 +0000",
+      "minecraft:beach": "2025-05-31 02:08:56 +0000",
       "minecraft:river": "2025-05-29 02:48:23 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000",
       "minecraft:snowy_taiga": "2025-05-29 04:15:25 +0000",
       "minecraft:forest": "2025-05-31 01:59:14 +0000",
+      "minecraft:flower_forest": "2025-05-31 02:18:09 +0000",
       "minecraft:deep_dark": "2025-05-29 04:04:18 +0000",
+      "minecraft:meadow": "2025-05-31 02:01:07 +0000",
       "minecraft:plains": "2025-05-29 03:07:25 +0000"
     },
     "done": false
@@ -184,8 +190,12 @@
     "criteria": {
       "minecraft:pillager": "2025-05-29 03:11:17 +0000",
       "minecraft:skeleton": "2025-05-29 04:14:04 +0000",
+      "minecraft:vindicator": "2025-05-31 02:07:45 +0000",
+      "minecraft:spider": "2025-05-31 02:06:00 +0000",
+      "minecraft:creeper": "2025-05-31 02:04:44 +0000",
       "minecraft:zombie": "2025-05-29 04:04:02 +0000",
-      "minecraft:drowned": "2025-05-29 02:55:23 +0000"
+      "minecraft:drowned": "2025-05-29 02:55:23 +0000",
+      "minecraft:zombie_villager": "2025-05-31 02:17:08 +0000"
     },
     "done": false
   },
@@ -338,9 +348,21 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-05-31 01:59:36 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-05-31 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-05-31 02:16:37 +0000"
     },
     "done": true
   },

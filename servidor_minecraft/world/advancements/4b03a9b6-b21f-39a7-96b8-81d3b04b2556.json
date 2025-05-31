@@ -153,6 +153,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-29 02:33:15 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 02:16:36 +0000",
+      "minecraft:beach": "2025-05-31 02:18:42 +0000",
       "minecraft:river": "2025-05-29 02:20:54 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:29:57 +0000",
       "minecraft:snowy_taiga": "2025-05-29 03:44:19 +0000",
@@ -278,8 +280,10 @@
     "criteria": {
       "sweet_berries": "2025-05-29 04:34:09 +0000",
       "porkchop": "2025-05-29 04:30:08 +0000",
+      "apple": "2025-05-31 02:01:27 +0000",
       "cooked_cod": "2025-05-29 04:52:35 +0000",
       "bread": "2025-05-29 04:12:53 +0000",
+      "cooked_chicken": "2025-05-31 02:06:23 +0000",
       "cod": "2025-05-29 04:49:13 +0000"
     },
     "done": false
@@ -344,6 +348,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-05-29 04:57:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-31 02:03:42 +0000"
     },
     "done": true
   },
