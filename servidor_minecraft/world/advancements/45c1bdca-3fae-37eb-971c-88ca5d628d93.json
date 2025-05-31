@@ -183,6 +183,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-29 02:28:50 +0000",
       "minecraft:spider": "2025-05-29 02:57:34 +0000",
+      "minecraft:creeper": "2025-05-31 02:48:58 +0000",
       "minecraft:cave_spider": "2025-05-29 04:09:49 +0000",
       "minecraft:enderman": "2025-05-29 03:54:17 +0000",
       "minecraft:zombie": "2025-05-29 02:51:45 +0000",
@@ -341,6 +342,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-29 04:51:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-05-31 02:47:28 +0000"
     },
     "done": true
   },

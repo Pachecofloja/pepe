@@ -280,6 +280,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-05-29 04:34:09 +0000",
+      "cooked_beef": "2025-05-31 02:41:48 +0000",
       "porkchop": "2025-05-29 04:30:08 +0000",
       "apple": "2025-05-31 02:01:27 +0000",
       "cooked_cod": "2025-05-29 04:52:35 +0000",
@@ -352,11 +353,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-31 02:45:34 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "earth": "2025-05-31 02:36:27 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-05-31 02:47:51 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
