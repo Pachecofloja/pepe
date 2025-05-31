@@ -412,6 +412,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-31 03:31:22 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/divine": {
     "criteria": {
       "has_item": "2025-05-31 01:54:01 +0000"
