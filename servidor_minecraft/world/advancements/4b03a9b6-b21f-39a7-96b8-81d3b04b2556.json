@@ -159,6 +159,7 @@
       "minecraft:dripstone_caves": "2025-05-29 02:29:57 +0000",
       "minecraft:snowy_taiga": "2025-05-29 03:44:19 +0000",
       "minecraft:grove": "2025-05-29 03:44:01 +0000",
+      "minecraft:forest": "2025-05-31 02:23:50 +0000",
       "minecraft:deep_dark": "2025-05-29 04:05:23 +0000",
       "minecraft:meadow": "2025-05-29 03:42:48 +0000",
       "minecraft:plains": "2025-05-31 01:51:49 +0000"
@@ -354,6 +355,12 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-05-31 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-31 02:20:54 +0000"
     },
     "done": true
   },

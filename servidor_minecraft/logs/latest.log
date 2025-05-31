@@ -2381,3 +2381,15 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 02:21:43.231] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31708, l='ServerLevel[world]', x=-695.50, y=70.00, z=-364.50]
 [31May2025 02:22:25.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32579, l='ServerLevel[world]', x=-567.50, y=79.00, z=-362.50]
 [31May2025 02:23:11.017] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 02:24:30.786] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 02:24:47.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Zombie
+[31May2025 02:24:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -9.832283098681103,1.67446120094192,1.0560786755314098
+[31May2025 02:27:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Scarlet Persecutor
+[31May2025 02:27:14.012] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 02:27:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Scarlet Persecutor
+[31May2025 02:27:48.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Scarlet Persecutor
+[31May2025 02:28:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Scarlet Persecutor
+[31May2025 02:28:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Scarlet Persecutor
+[31May2025 02:28:22.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Scarlet Persecutor
+[31May2025 02:28:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Scarlet Persecutor
+[31May2025 02:33:03.194] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
