@@ -229,6 +229,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-31 02:56:53 +0000",
       "sweet_berries": "2025-05-29 03:35:41 +0000",
       "potato": "2025-05-31 02:28:09 +0000",
       "mutton": "2025-05-31 02:28:36 +0000",
@@ -345,6 +346,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-31 02:50:52 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-31 02:47:28 +0000"
@@ -360,6 +367,12 @@
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-05-31 02:08:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2025-05-31 02:55:33 +0000"
     },
     "done": true
   },

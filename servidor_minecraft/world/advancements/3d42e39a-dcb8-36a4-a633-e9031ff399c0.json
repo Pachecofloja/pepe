@@ -193,6 +193,7 @@
       "minecraft:vindicator": "2025-05-31 02:07:45 +0000",
       "minecraft:spider": "2025-05-31 02:06:00 +0000",
       "minecraft:creeper": "2025-05-31 02:04:44 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 02:55:08 +0000",
       "minecraft:zombie": "2025-05-29 04:04:02 +0000",
       "minecraft:drowned": "2025-05-29 02:55:23 +0000",
       "minecraft:zombie_villager": "2025-05-31 02:17:08 +0000"
@@ -345,6 +346,12 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-05-29 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-31 02:58:02 +0000"
     },
     "done": true
   },
