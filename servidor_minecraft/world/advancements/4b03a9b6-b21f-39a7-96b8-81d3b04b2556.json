@@ -290,6 +290,7 @@
       "pumpkin_pie": "2025-05-31 03:18:50 +0000",
       "bread": "2025-05-29 04:12:53 +0000",
       "golden_apple": "2025-05-31 03:02:46 +0000",
+      "glow_berries": "2025-05-31 04:15:36 +0000",
       "golden_carrot": "2025-05-31 03:58:46 +0000",
       "cooked_chicken": "2025-05-31 02:06:23 +0000",
       "cod": "2025-05-29 04:49:13 +0000"
@@ -422,6 +423,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-31 03:31:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-05-31 04:18:32 +0000"
     },
     "done": true
   },

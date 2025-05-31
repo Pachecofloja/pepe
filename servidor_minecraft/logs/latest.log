@@ -2918,3 +2918,22 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 04:10:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Arthuro
 [31May2025 04:11:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
 [31May2025 04:13:30.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/61027, l='ServerLevel[world]', x=25.53, y=136.00, z=53.46] died: Gearling fell from a high place
+[31May2025 04:16:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 04:19:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:20:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[31May2025 04:20:11.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Skeleton
+[31May2025 04:20:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 04:20:30.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:21:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Skeleton
+[31May2025 04:21:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 04:21:55.570] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 04:21:55.571] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[31May2025 04:21:55.571] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 04:21:55.571] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 04:21:55.571] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[31May2025 04:22:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:22:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 04:22:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[31May2025 04:22:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:24:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 04:24:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
