@@ -2937,3 +2937,14 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 04:22:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
 [31May2025 04:24:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
 [31May2025 04:24:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:30:28.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was shot by Skeleton
+[31May2025 04:30:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:31:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was shot by Skeleton
+[31May2025 04:31:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:31:25.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:31:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was shot by Skeleton
+[31May2025 04:32:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 04:33:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was shot by Skeleton
+[31May2025 04:33:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 04:34:14.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was shot by Skeleton
+[31May2025 04:34:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
