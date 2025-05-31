@@ -2720,3 +2720,201 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 04:05:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
 [31May2025 04:05:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
 [31May2025 04:05:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 04:05:53.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 lost connection: You logged in from another location
+[31May2025 04:05:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 left the game
+[31May2025 04:05:53.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angelichi25[/127.247.11.111:32943] logged in with entity id 62021 at (46.30000001192093, 145.41873162960792, 77.51249998807907)
+[31May2025 04:05:53.992] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Angelichi25
+[31May2025 04:05:53.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 joined the game
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.034] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.035] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.036] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.037] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.037] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.037] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.037] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.037] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.038] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.039] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.039] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.039] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.039] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.041] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.041] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.042] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.043] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.044] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.045] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.046] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.047] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.048] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.049] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.051] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.051] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.052] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.053] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.054] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.055] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.056] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:05:54.057] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[31May2025 04:06:16.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:06:16.366] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 04:06:16.366] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[31May2025 04:06:16.366] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 04:06:16.366] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 04:06:16.366] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31May2025 04:06:19.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:06:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:06:28.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 04:06:44.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60805, l='ServerLevel[world]', x=30.15, y=154.00, z=54.15] died: Gearling was slain by ThebrosXD
+[31May2025 04:07:06.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:07:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:07:15.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:07:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:07:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:07:38.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:07:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was killed by Gearling using magic
+[31May2025 04:07:48.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:07:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:07:56.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:07:57.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 04:08:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:08:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:08:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:08:22.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:08:25.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:08:28.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:08:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:08:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:09:11.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 04:09:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:09:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 04:09:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 04:10:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD fell from a high place
+[31May2025 04:10:23.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 04:10:26.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was killed by Gearling using magic
+[31May2025 04:10:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Arthuro
+[31May2025 04:11:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:13:30.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/61027, l='ServerLevel[world]', x=25.53, y=136.00, z=53.46] died: Gearling fell from a high place
