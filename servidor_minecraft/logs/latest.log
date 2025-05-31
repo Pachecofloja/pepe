@@ -2681,3 +2681,42 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
 [31May2025 03:55:02.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 03:56:56.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 03:57:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:57:45.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Skeleton
+[31May2025 03:57:47.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:58:27.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60836, l='ServerLevel[world]', x=37.41, y=156.00, z=58.87] died: Gearling was slain by ThebrosXD
+[31May2025 03:58:28.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60800, l='ServerLevel[world]', x=37.03, y=156.00, z=57.92] died: Gearling was slain by ThebrosXD
+[31May2025 03:58:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 03:58:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:58:52.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60785, l='ServerLevel[world]', x=31.46, y=154.77, z=55.75] died: Gearling was slain by ThebrosXD
+[31May2025 03:59:51.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 03:59:51.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60874, l='ServerLevel[world]', x=41.85, y=156.50, z=63.36] died: Gearling was slain by ThebrosXD
+[31May2025 03:59:51.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Skeleton
+[31May2025 03:59:53.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/61062, l='ServerLevel[world]', x=41.81, y=156.40, z=64.53] died: Gearling was slain by ThebrosXD
+[31May2025 03:59:54.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:00:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:00:33.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:00:33.410] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 04:00:33.410] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[31May2025 04:00:33.410] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 04:00:33.410] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 04:00:33.410] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[31May2025 04:00:39.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/60798, l='ServerLevel[world]', x=38.33, y=139.06, z=59.73] died: Gearling hit the ground too hard
+[31May2025 04:02:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:02:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:02:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
+[31May2025 04:02:12.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:03:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:04:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:04:18.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:04:18.972] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 04:04:18.972] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[31May2025 04:04:18.972] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 04:04:18.972] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 04:04:18.973] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31May2025 04:04:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:05:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[31May2025 04:05:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 04:05:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[31May2025 04:05:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Gearling
