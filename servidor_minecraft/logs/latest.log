@@ -2665,3 +2665,19 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 03:44:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
 [31May2025 03:44:59.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Ravager
 [31May2025 03:45:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
+[31May2025 03:45:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:45:11.823] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 03:45:11.824] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[31May2025 03:45:11.824] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 03:45:11.824] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 03:45:11.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31May2025 03:45:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:46:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:46:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:54:45.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Skeleton
+[31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 35 is dual wielding: false
+[31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 03:54:45.930] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[31May2025 03:55:02.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]

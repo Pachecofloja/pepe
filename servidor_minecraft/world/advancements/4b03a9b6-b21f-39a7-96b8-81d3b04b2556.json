@@ -358,33 +358,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "immersive_armors:recipes/misc/divine": {
     "criteria": {
-      "diamond_chestplate": "2025-05-31 02:50:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-31 02:45:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/slime_collector": {
-    "criteria": {
-      "earth": "2025-05-31 02:36:27 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_mechanical_nest": {
-    "criteria": {
-      "location0": "2025-05-31 02:47:51 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-05-31 03:11:00 +0000"
+      "has_item": "2025-05-31 01:54:01 +0000"
     },
     "done": true
   },
@@ -393,6 +369,18 @@
       "dark_metallurgy_0": "2025-05-31 02:03:42 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-31 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-31 02:36:27 +0000"
+    },
+    "done": false
   },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
@@ -406,21 +394,33 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "the_wind_darkening_0": "2025-05-31 02:20:54 +0000"
+      "slept_in_bed": "2025-05-31 02:45:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-05-31 02:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-31 02:50:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-05-31 03:11:00 +0000"
     },
     "done": true
   },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-31 03:31:22 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/divine": {
-    "criteria": {
-      "has_item": "2025-05-31 01:54:01 +0000"
     },
     "done": true
   },
