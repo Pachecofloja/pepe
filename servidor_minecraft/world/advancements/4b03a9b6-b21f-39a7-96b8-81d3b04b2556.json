@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-31 04:48:35 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-05-31 04:18:32 +0000"
