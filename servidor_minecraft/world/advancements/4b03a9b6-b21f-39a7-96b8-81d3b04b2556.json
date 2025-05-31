@@ -181,7 +181,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-29 02:30:08 +0000",
+      "minecraft:ravager": "2025-05-31 03:07:32 +0000",
       "minecraft:spider": "2025-05-29 02:48:15 +0000",
+      "minecraft:creeper": "2025-05-31 03:07:40 +0000",
       "quark:forgotten": "2025-05-29 03:57:26 +0000",
       "minecraft:witch": "2025-05-29 04:15:51 +0000",
       "minecraft:wither_skeleton": "2025-05-31 02:52:42 +0000",
@@ -286,6 +288,7 @@
       "apple": "2025-05-31 02:01:27 +0000",
       "cooked_cod": "2025-05-29 04:52:35 +0000",
       "bread": "2025-05-29 04:12:53 +0000",
+      "golden_apple": "2025-05-31 03:02:46 +0000",
       "cooked_chicken": "2025-05-31 02:06:23 +0000",
       "cod": "2025-05-29 04:49:13 +0000"
     },

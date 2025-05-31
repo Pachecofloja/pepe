@@ -128,6 +128,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-31 03:09:22 +0000",
       "chicken": "2025-05-29 04:08:59 +0000",
       "cooked_mutton": "2025-05-29 03:17:16 +0000",
       "sweet_berries": "2025-05-29 03:34:32 +0000",
@@ -190,6 +191,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-29 03:11:17 +0000",
       "minecraft:skeleton": "2025-05-29 04:14:04 +0000",
+      "minecraft:ravager": "2025-05-31 03:05:11 +0000",
       "minecraft:vindicator": "2025-05-31 02:07:45 +0000",
       "minecraft:spider": "2025-05-31 02:06:00 +0000",
       "minecraft:creeper": "2025-05-31 02:04:44 +0000",

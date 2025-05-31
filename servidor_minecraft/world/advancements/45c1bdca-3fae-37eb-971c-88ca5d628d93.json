@@ -182,8 +182,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-29 02:28:50 +0000",
+      "minecraft:ravager": "2025-05-31 03:06:02 +0000",
       "minecraft:spider": "2025-05-29 02:57:34 +0000",
       "minecraft:creeper": "2025-05-31 02:48:58 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 03:06:54 +0000",
       "minecraft:cave_spider": "2025-05-29 04:09:49 +0000",
       "minecraft:enderman": "2025-05-29 03:54:17 +0000",
       "minecraft:zombie": "2025-05-29 02:51:45 +0000",
@@ -231,10 +233,13 @@
     "criteria": {
       "cooked_porkchop": "2025-05-31 02:56:53 +0000",
       "sweet_berries": "2025-05-29 03:35:41 +0000",
+      "cooked_beef": "2025-05-31 03:05:36 +0000",
+      "baked_potato": "2025-05-31 03:00:47 +0000",
       "potato": "2025-05-31 02:28:09 +0000",
       "mutton": "2025-05-31 02:28:36 +0000",
       "bread": "2025-05-29 04:55:51 +0000",
       "cookie": "2025-05-29 03:44:01 +0000",
+      "salmon": "2025-05-31 03:02:35 +0000",
       "cod": "2025-05-29 04:59:34 +0000"
     },
     "done": false
@@ -355,6 +360,12 @@
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-31 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-05-31 03:08:54 +0000"
     },
     "done": true
   },

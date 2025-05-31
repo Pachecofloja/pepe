@@ -2419,3 +2419,24 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 02:59:39.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
 [31May2025 03:03:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Ravager
 [31May2025 03:03:26.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:06:45.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Ravager
+[31May2025 03:07:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 03:07:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:07:20.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:07:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was blown up by Creeper
+[31May2025 03:07:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was blown up by Creeper
+[31May2025 03:07:40.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was blown up by Creeper
+[31May2025 03:07:41.078] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 03:07:41.078] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[31May2025 03:07:41.078] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 03:07:41.078] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 03:07:41.078] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31May2025 03:08:54.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Unbreaking X]
+[31May2025 03:10:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 fell from a high place
+[31May2025 03:10:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 03:11:00.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Unbreaking X]
+[31May2025 03:11:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:11:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro drowned
+[31May2025 03:11:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:11:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Ravager
+[31May2025 03:12:45.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
