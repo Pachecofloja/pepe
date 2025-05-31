@@ -158,7 +158,8 @@
       "minecraft:snowy_taiga": "2025-05-29 03:44:19 +0000",
       "minecraft:grove": "2025-05-29 03:44:01 +0000",
       "minecraft:deep_dark": "2025-05-29 04:05:23 +0000",
-      "minecraft:meadow": "2025-05-29 03:42:48 +0000"
+      "minecraft:meadow": "2025-05-29 03:42:48 +0000",
+      "minecraft:plains": "2025-05-31 01:51:49 +0000"
     },
     "done": false
   },
@@ -343,6 +344,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-05-29 04:57:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2025-05-31 01:54:01 +0000"
     },
     "done": true
   },

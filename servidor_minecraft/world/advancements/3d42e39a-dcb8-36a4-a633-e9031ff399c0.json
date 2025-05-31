@@ -144,6 +144,7 @@
       "minecraft:river": "2025-05-29 02:48:23 +0000",
       "minecraft:dripstone_caves": "2025-05-29 02:43:25 +0000",
       "minecraft:snowy_taiga": "2025-05-29 04:15:25 +0000",
+      "minecraft:forest": "2025-05-31 01:59:14 +0000",
       "minecraft:deep_dark": "2025-05-29 04:04:18 +0000",
       "minecraft:plains": "2025-05-29 03:07:25 +0000"
     },
@@ -334,6 +335,12 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-05-29 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-31 01:52:55 +0000"
     },
     "done": true
   },
