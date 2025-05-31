@@ -287,6 +287,7 @@
       "porkchop": "2025-05-29 04:30:08 +0000",
       "apple": "2025-05-31 02:01:27 +0000",
       "cooked_cod": "2025-05-29 04:52:35 +0000",
+      "pumpkin_pie": "2025-05-31 03:18:50 +0000",
       "bread": "2025-05-29 04:12:53 +0000",
       "golden_apple": "2025-05-31 03:02:46 +0000",
       "cooked_chicken": "2025-05-31 02:06:23 +0000",
@@ -378,6 +379,12 @@
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-31 02:47:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-05-31 03:11:00 +0000"
     },
     "done": true
   },

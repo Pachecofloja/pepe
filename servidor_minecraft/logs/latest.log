@@ -2440,3 +2440,31 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [31May2025 03:11:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
 [31May2025 03:11:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Ravager
 [31May2025 03:12:45.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[31May2025 03:15:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Wither Skeleton
+[31May2025 03:15:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Ravager
+[31May2025 03:15:25.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD fell from a high place
+[31May2025 03:15:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Arthuro]
+[31May2025 03:16:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:16:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[31May2025 03:16:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Wither Skeleton
+[31May2025 03:16:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:16:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 03:16:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Wither Skeleton
+[31May2025 03:16:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 03:16:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Wither Skeleton
+[31May2025 03:17:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:17:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[31May2025 03:18:19.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD withered away
+[31May2025 03:18:19.516] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 03:18:19.516] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[31May2025 03:18:19.516] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 03:18:19.516] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 03:18:19.519] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31May2025 03:18:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[31May2025 03:18:29.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:18:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[31May2025 03:18:49.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:18:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[31May2025 03:24:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Wither Skeleton
+[31May2025 03:24:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro was slain by Wither Skeleton
+[31May2025 03:24:20.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
