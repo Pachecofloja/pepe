@@ -513,11 +513,29 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-06-01 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-06-01 05:21:48 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-06-01 04:46:15 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2025-06-01 05:21:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

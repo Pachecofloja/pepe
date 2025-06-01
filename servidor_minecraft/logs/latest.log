@@ -2085,3 +2085,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [01Jun2025 05:09:48.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 lost connection: Disconnected
 [01Jun2025 05:09:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 left the game
 [01Jun2025 05:19:49.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro has reached the goal [Advanced Tool Making]
+[01Jun2025 05:27:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro has made the advancement [Ambush]
+[01Jun2025 05:28:46.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14067, l='ServerLevel[world]', x=-806.50, y=74.00, z=-170.50]
+[01Jun2025 05:28:52.126] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14111, l='ServerLevel[world]', x=-757.50, y=72.00, z=-300.50]
+[01Jun2025 05:29:22.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14397, l='ServerLevel[world]', x=-750.50, y=71.00, z=-236.50]
+[01Jun2025 05:30:37.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
