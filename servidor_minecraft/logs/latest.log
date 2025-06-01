@@ -2080,3 +2080,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [01Jun2025 04:34:50.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
 [01Jun2025 04:46:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Bonfire Lit]
 [01Jun2025 04:49:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Dinner's Served!]
+[01Jun2025 05:04:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Life turned out to be a comedy]
+[01Jun2025 05:05:14.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Exorcism]
+[01Jun2025 05:09:48.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 lost connection: Disconnected
+[01Jun2025 05:09:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 left the game
