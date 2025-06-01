@@ -462,6 +462,9 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2025-06-01 05:15:01 +0000",
+      "tough_handle": "2025-06-01 05:15:39 +0000",
+      "hammer_head": "2025-06-01 05:14:56 +0000",
       "ingot": "2025-06-01 02:44:01 +0000"
     },
     "done": false
@@ -490,6 +493,18 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-06-01 05:11:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-06-01 05:14:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-06-01 04:34:29 +0000"
@@ -499,6 +514,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-01 04:34:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-06-01 05:11:21 +0000"
     },
     "done": true
   },
