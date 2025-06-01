@@ -490,5 +490,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-06-01 04:34:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-01 04:34:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
