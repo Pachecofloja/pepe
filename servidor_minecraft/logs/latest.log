@@ -2403,3 +2403,54 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [02Jun2025 03:49:20.510] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
 [02Jun2025 03:49:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Arthuro360]
 [02Jun2025 03:49:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[02Jun2025 03:50:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:50:51.158] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:50:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[02Jun2025 03:51:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD fell from a high place
+[02Jun2025 03:51:22.978] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:51:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[02Jun2025 03:52:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was spiked to death
+[02Jun2025 03:52:11.458] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:52:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Hollow
+[02Jun2025 03:52:20.626] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:52:20.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Jun2025 03:52:20.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[02Jun2025 03:52:20.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[02Jun2025 03:52:20.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Jun2025 03:52:20.723] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Jun2025 03:52:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[02Jun2025 03:52:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:52:40.813] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:52:42.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was spiked to death
+[02Jun2025 03:52:42.412] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[02Jun2025 03:52:42.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has reached the goal [Chain Death]
+[02Jun2025 03:52:42.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was spiked to death
+[02Jun2025 03:52:42.559] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:52:43.611] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:52:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[02Jun2025 03:53:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to -901.500000, -60.500000, 253.500000]
+[02Jun2025 03:53:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[02Jun2025 03:53:33.258] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:54:15.480] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:54:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[02Jun2025 03:54:23.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:54:23.057] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:54:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[02Jun2025 03:54:31.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:54:31.607] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:54:42.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro360]
+[02Jun2025 03:56:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has made the advancement [Local Brewery]
+[02Jun2025 03:56:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 withered away whilst fighting Skeleton
+[02Jun2025 03:56:58.110] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:57:02.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was spiked to death
+[02Jun2025 03:57:02.975] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[02Jun2025 03:57:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Spawner Carrier
+[02Jun2025 03:57:03.470] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:57:04.551] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:57:12.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to -918.500000, -53.500000, 254.500000]
+[02Jun2025 03:57:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[02Jun2025 03:57:18.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was slain by Spawner Carrier
+[02Jun2025 03:57:18.158] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:57:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[02Jun2025 03:59:15.480] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 04:00:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Dungeon Now Loading]

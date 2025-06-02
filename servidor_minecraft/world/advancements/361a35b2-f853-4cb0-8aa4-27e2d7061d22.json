@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-02 03:56:17 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-06-02 02:12:54 +0000"
@@ -350,6 +356,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-06-02 02:38:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 03:52:42 +0000"
     },
     "done": true
   },
