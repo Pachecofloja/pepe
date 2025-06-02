@@ -120,6 +120,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-06-02 02:46:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-02 02:03:20 +0000"
@@ -149,6 +155,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-06-02 02:25:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 02:57:41 +0000"
     },
     "done": true
   },
@@ -220,9 +232,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-02 02:45:34 +0000",
       "shrubland": "2025-06-02 02:37:39 +0000",
+      "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
-      "pasture": "2025-06-02 02:37:41 +0000"
+      "pasture": "2025-06-02 02:37:41 +0000",
+      "grassland": "2025-06-02 02:44:40 +0000"
     },
     "done": false
   },
@@ -241,9 +256,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-06-02 02:35:10 +0000",
+      "minecraft:witch": "2025-06-02 02:57:41 +0000",
       "minecraft:zombie": "2025-06-02 02:35:44 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-02 02:57:58 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -304,6 +326,12 @@
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-06-02 02:18:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 02:57:41 +0000"
     },
     "done": true
   },

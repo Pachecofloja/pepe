@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-06-02 02:46:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-02 02:11:04 +0000"
@@ -73,6 +79,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 02:46:24 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-02 02:35:26 +0000"
@@ -106,6 +118,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-02 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-02 02:54:29 +0000"
     },
     "done": true
   },
@@ -160,8 +178,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-02 02:45:41 +0000",
       "shrubland": "2025-06-02 02:37:35 +0000",
-      "pasture": "2025-06-02 02:37:23 +0000"
+      "scrubland": "2025-06-02 02:46:05 +0000",
+      "pasture": "2025-06-02 02:37:23 +0000",
+      "grassland": "2025-06-02 02:44:56 +0000"
     },
     "done": false
   },
@@ -179,6 +200,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-02 02:46:24 +0000",
+      "minecraft:skeleton": "2025-06-02 02:53:41 +0000",
       "minecraft:zombie": "2025-06-02 02:36:22 +0000"
     },
     "done": false
@@ -232,6 +255,12 @@
       "minecraft:plains": "2025-06-02 02:35:29 +0000"
     },
     "done": false
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-02 02:49:05 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {
@@ -297,6 +326,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-06-02 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 02:46:24 +0000"
     },
     "done": true
   },
