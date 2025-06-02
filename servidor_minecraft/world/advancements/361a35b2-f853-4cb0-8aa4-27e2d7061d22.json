@@ -214,6 +214,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-02 03:45:28 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_ruined_building": "2025-06-02 02:02:38 +0000"
@@ -249,6 +255,7 @@
       "minecraft:pillager": "2025-06-02 02:46:24 +0000",
       "minecraft:skeleton": "2025-06-02 02:53:41 +0000",
       "minecraft:spider": "2025-06-02 03:00:02 +0000",
+      "minecraft:creeper": "2025-06-02 03:45:10 +0000",
       "minecraft:zombie": "2025-06-02 02:36:22 +0000"
     },
     "done": false
@@ -387,6 +394,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 02:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-02 03:40:01 +0000"
     },
     "done": true
   },

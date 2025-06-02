@@ -2378,3 +2378,28 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [02Jun2025 03:39:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro360 to ThebrosXD]
 [02Jun2025 03:39:15.483] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [02Jun2025 03:40:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has made the advancement [Diamonds!]
+[02Jun2025 03:43:37.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was burnt to a crisp whilst fighting Skeleton
+[02Jun2025 03:43:37.667] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:44:01.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro360 to ThebrosXD]
+[02Jun2025 03:44:15.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:44:19.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [A Strange Grave Dust]
+[02Jun2025 03:45:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has made the advancement [Cover Me with Diamonds]
+[02Jun2025 03:46:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was slain by Hollow
+[02Jun2025 03:46:36.312] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:46:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro360 to ThebrosXD]
+[02Jun2025 03:48:31.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Hollow
+[02Jun2025 03:48:31.110] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:48:42.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to -906.500000, -40.500000, 261.500000]
+[02Jun2025 03:48:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro360]
+[02Jun2025 03:48:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was spiked to death
+[02Jun2025 03:48:58.361] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:49:02.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro360]
+[02Jun2025 03:49:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Angelichi25]
+[02Jun2025 03:49:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Discreet Search]
+[02Jun2025 03:49:12.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Hollow
+[02Jun2025 03:49:12.309] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[02Jun2025 03:49:15.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:49:20.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:49:20.510] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:49:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Arthuro360]
+[02Jun2025 03:49:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
