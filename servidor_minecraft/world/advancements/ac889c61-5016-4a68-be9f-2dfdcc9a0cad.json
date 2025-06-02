@@ -148,6 +148,9 @@
     "criteria": {
       "string": "2025-06-02 02:27:33 +0000",
       "slimewood": "2025-06-02 02:27:33 +0000",
+      "necrotic_bone": "2025-06-02 03:09:39 +0000",
+      "rose_gold": "2025-06-02 03:09:39 +0000",
+      "queens_slime": "2025-06-02 03:09:39 +0000",
       "iron": "2025-06-02 02:03:20 +0000"
     },
     "done": false
@@ -212,6 +215,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-02 03:18:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/ancient_tools": {
     "criteria": {
       "war_pick": "2025-06-02 02:27:33 +0000"
@@ -237,13 +246,20 @@
       "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
       "pasture": "2025-06-02 02:37:41 +0000",
-      "grassland": "2025-06-02 02:44:40 +0000"
+      "grassland": "2025-06-02 02:44:40 +0000",
+      "prairie": "2025-06-02 03:15:33 +0000"
     },
     "done": false
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-02 02:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-02 03:10:11 +0000"
     },
     "done": true
   },
@@ -277,6 +293,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-06-02 02:03:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2025-06-02 03:09:39 +0000"
     },
     "done": true
   },
@@ -334,6 +356,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-02 03:09:37 +0000"
     },
     "done": true
   },

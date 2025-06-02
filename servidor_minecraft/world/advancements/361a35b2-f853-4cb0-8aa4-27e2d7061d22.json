@@ -69,9 +69,17 @@
     "criteria": {
       "string": "2025-06-02 02:25:43 +0000",
       "slimewood": "2025-06-02 02:25:43 +0000",
+      "rock": "2025-06-02 03:11:28 +0000",
+      "rose_gold": "2025-06-02 03:11:28 +0000",
       "iron": "2025-06-02 02:12:54 +0000"
     },
     "done": false
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-06-02 03:10:12 +0000"
+    },
+    "done": true
   },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
@@ -94,6 +102,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-02 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -164,6 +178,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-02 03:18:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/ancient_tools": {
     "criteria": {
       "war_pick": "2025-06-02 02:25:43 +0000"
@@ -189,7 +209,8 @@
       "scrubland": "2025-06-02 02:46:05 +0000",
       "highland": "2025-06-02 03:01:29 +0000",
       "pasture": "2025-06-02 02:37:23 +0000",
-      "grassland": "2025-06-02 02:44:56 +0000"
+      "grassland": "2025-06-02 02:44:56 +0000",
+      "prairie": "2025-06-02 03:15:57 +0000"
     },
     "done": false
   },
@@ -277,6 +298,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-02 03:12:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-06-02 02:12:18 +0000"
@@ -303,6 +330,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-02 03:09:52 +0000",
       "baked_potato": "2025-06-02 02:13:21 +0000",
       "bread": "2025-06-02 02:38:37 +0000"
     },

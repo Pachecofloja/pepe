@@ -170,6 +170,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-06-02 02:56:07 +0000",
+      "baked_potato": "2025-06-02 03:17:58 +0000",
       "bread": "2025-06-02 02:03:43 +0000"
     },
     "done": false
@@ -342,9 +343,21 @@
     },
     "done": false
   },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-06-02 03:10:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-02 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-02 03:18:44 +0000"
     },
     "done": true
   },
