@@ -134,9 +134,17 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "string": "2025-06-02 02:27:33 +0000",
+      "slimewood": "2025-06-02 02:27:33 +0000",
       "iron": "2025-06-02 02:03:20 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-02 02:25:40 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
@@ -149,6 +157,24 @@
       "get_stone": "2025-06-02 02:03:21 +0000"
     },
     "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-02 02:24:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-02 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-06-02 02:27:33 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {

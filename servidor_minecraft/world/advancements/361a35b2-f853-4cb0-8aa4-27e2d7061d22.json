@@ -43,6 +43,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "string": "2025-06-02 02:25:43 +0000",
+      "slimewood": "2025-06-02 02:25:43 +0000",
       "iron": "2025-06-02 02:12:54 +0000"
     },
     "done": false
@@ -77,6 +79,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-02 02:33:46 +0000"
+    },
+    "done": true
+  },
   "what_gecko:what_the_geck": {
     "criteria": {
       "what_the_geck": "2025-06-02 02:01:38 +0000"
@@ -89,6 +97,12 @@
       "inv_changed-diamond": "2025-06-02 02:01:38 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-06-02 02:25:43 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -131,6 +145,12 @@
       "minecraft:sunflower_plains": "2025-06-02 02:02:33 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-06-02 02:33:33 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
