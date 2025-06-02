@@ -126,6 +126,26 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-06-02 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-02 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "string": "2025-06-02 02:23:57 +0000",
+      "slimewood": "2025-06-02 02:23:57 +0000",
+      "iron": "2025-06-02 02:23:57 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-06-02 02:02:43 +0000"
@@ -137,6 +157,18 @@
       "has_item": "2025-06-02 02:03:37 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-02 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-06-02 02:23:57 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -183,6 +215,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-02 02:03:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-02 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-02 02:19:27 +0000"
     },
     "done": true
   },
