@@ -1859,3 +1859,8 @@ java.lang.ClassNotFoundException: com.mojang.authlib.yggdrasil.response.Response
 [02Jun2025 01:28:30.335] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [02Jun2025 01:29:08.754] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [02Jun2025 01:29:08.754] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jun2025 01:32:59.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Angelichi25) moved wrongly! 0.2641364633358735
+[02Jun2025 01:32:59.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Angelichi25) moved wrongly! 0.2994700021403344
+[02Jun2025 01:32:59.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Angelichi25) moved wrongly! 0.2994700021403344
+[02Jun2025 01:32:59.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Angelichi25) moved wrongly! 0.2994700021403344
+[02Jun2025 01:32:59.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Angelichi25) moved wrongly! 0.2994700021403344

@@ -235,6 +235,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-02 01:33:29 +0000",
       "entered_watch_tower": "2025-05-29 03:44:35 +0000",
       "entered_ruined_building": "2025-06-01 02:48:01 +0000"
     },
@@ -248,6 +249,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-02 01:26:10 +0000",
       "shrubland": "2025-06-02 01:19:32 +0000",
       "snowblossom_grove": "2025-05-29 04:24:21 +0000",
       "rocky_shrubland": "2025-06-02 01:19:48 +0000",
