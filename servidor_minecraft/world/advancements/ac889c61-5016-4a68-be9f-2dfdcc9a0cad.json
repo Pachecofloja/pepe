@@ -188,6 +188,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-06-02 02:14:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-02 02:14:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "sledge_hammer": "2025-06-02 02:03:20 +0000"
