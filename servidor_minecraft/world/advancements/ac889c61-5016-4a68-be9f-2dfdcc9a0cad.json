@@ -337,7 +337,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-06-02 02:14:06 +0000"
+      "cooked_beef": "2025-06-02 02:14:06 +0000",
+      "golden_carrot": "2025-06-02 03:24:37 +0000",
+      "rabbit_stew": "2025-06-02 03:22:01 +0000"
     },
     "done": false
   },
@@ -356,6 +358,24 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-02 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-02 03:22:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 03:22:56 +0000"
     },
     "done": true
   },
