@@ -2355,3 +2355,26 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [02Jun2025 03:28:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
 [02Jun2025 03:29:15.488] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [02Jun2025 03:29:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Local Brewery]
+[02Jun2025 03:30:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Local Brewery]
+[02Jun2025 03:30:29.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23547, l='ServerLevel[world]', x=-1204.30, y=68.00, z=142.30] died, message: 'Villager was slain by Vindicator'
+[02Jun2025 03:31:44.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has made the advancement [Stolen Magic]
+[02Jun2025 03:34:15.486] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:35:45.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD blew up
+[02Jun2025 03:35:45.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was blown up by ThebrosXD
+[02Jun2025 03:35:45.175] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:35:45.213] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[02Jun2025 03:35:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Arthuro360]
+[02Jun2025 03:36:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Chain Death]
+[02Jun2025 03:36:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was spiked to death
+[02Jun2025 03:36:16.560] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[02Jun2025 03:36:19.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to Arthuro360]
+[02Jun2025 03:38:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 was slain by Zombie
+[02Jun2025 03:38:56.462] [Server thread/INFO] [tombstone/]: The player Arthuro360 has successfully been saved
+[02Jun2025 03:38:56.473] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Jun2025 03:38:56.474] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[02Jun2025 03:38:56.474] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[02Jun2025 03:38:56.474] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Jun2025 03:38:56.474] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Jun2025 03:39:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Arthuro360 to ThebrosXD]
+[02Jun2025 03:39:15.483] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[02Jun2025 03:40:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arthuro360 has made the advancement [Diamonds!]
