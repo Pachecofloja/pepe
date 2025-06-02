@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-02 03:07:07 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-06-02 02:46:29 +0000"
@@ -181,6 +187,7 @@
       "woodland": "2025-06-02 02:45:41 +0000",
       "shrubland": "2025-06-02 02:37:35 +0000",
       "scrubland": "2025-06-02 02:46:05 +0000",
+      "highland": "2025-06-02 03:01:29 +0000",
       "pasture": "2025-06-02 02:37:23 +0000",
       "grassland": "2025-06-02 02:44:56 +0000"
     },
@@ -202,6 +209,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 02:46:24 +0000",
       "minecraft:skeleton": "2025-06-02 02:53:41 +0000",
+      "minecraft:spider": "2025-06-02 03:00:02 +0000",
       "minecraft:zombie": "2025-06-02 02:36:22 +0000"
     },
     "done": false
@@ -252,6 +260,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-02 02:02:33 +0000",
       "minecraft:river": "2025-06-02 02:37:41 +0000",
+      "minecraft:flower_forest": "2025-06-02 03:07:54 +0000",
       "minecraft:plains": "2025-06-02 02:35:29 +0000"
     },
     "done": false
@@ -335,6 +344,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 03:00:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-06-02 02:13:29 +0000"
@@ -350,6 +365,18 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-06-02 02:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-02 03:07:06 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-06-02 03:07:07 +0000"
     },
     "done": true
   },
