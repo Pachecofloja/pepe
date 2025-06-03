@@ -493,42 +493,6 @@
     },
     "done": true
   },
-  "tconstruct:tools/part_builder": {
-    "criteria": {
-      "crafted_block": "2025-06-01 05:11:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2025-06-01 05:21:41 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "iron": "2025-06-01 05:21:41 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-06-01 05:27:16 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/tinkers_anvil": {
-    "criteria": {
-      "crafted_overworld": "2025-06-01 05:19:49 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/make_part": {
-    "criteria": {
-      "crafted_part": "2025-06-01 05:14:37 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-06-01 04:34:29 +0000"
@@ -547,11 +511,47 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-06-01 05:11:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-06-01 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2025-06-01 05:19:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-06-01 05:21:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-06-01 05:21:41 +0000"
+    },
+    "done": false
+  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "sledge_hammer": "2025-06-01 05:21:41 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-01 05:27:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
