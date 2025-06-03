@@ -2082,3 +2082,9 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Jun2025 02:03:15.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Ice Bucket Challenge]
 [03Jun2025 02:20:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Dungeon Now Loading]
 [03Jun2025 02:24:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Big Boy]
+[03Jun2025 02:26:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Postmortal]
+[03Jun2025 02:26:43.075] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[03Jun2025 02:28:08.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/12272, l='ServerLevel[world]', x=-545.53, y=64.19, z=79.80] died, message: 'Leatherworker was slain by Zombie'
+[03Jun2025 02:29:40.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1372, l='ServerLevel[world]', x=-557.92, y=63.00, z=64.10] died, message: 'Farmer was slain by Zombie'
+[03Jun2025 02:31:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Good Boy!]
+[03Jun2025 02:33:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Fortuitous Militia]

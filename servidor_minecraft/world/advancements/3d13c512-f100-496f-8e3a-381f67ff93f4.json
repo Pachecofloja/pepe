@@ -412,9 +412,33 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-06-03 02:30:29 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-03 02:30:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-06-03 02:24:19 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-06-03 01:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-03 02:26:43 +0000"
     },
     "done": true
   },
