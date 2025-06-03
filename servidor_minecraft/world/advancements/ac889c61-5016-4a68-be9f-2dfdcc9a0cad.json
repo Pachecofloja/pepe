@@ -439,18 +439,6 @@
     },
     "done": true
   },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-06-02 05:08:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-02 05:18:15 +0000"
-    },
-    "done": true
-  },
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-06-02 04:58:38 +0000"
@@ -460,6 +448,18 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-06-02 05:01:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-02 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 05:18:15 +0000"
     },
     "done": true
   },
