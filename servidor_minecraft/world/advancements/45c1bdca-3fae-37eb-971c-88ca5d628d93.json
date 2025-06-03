@@ -537,5 +537,11 @@
     },
     "done": false
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-03 03:39:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
