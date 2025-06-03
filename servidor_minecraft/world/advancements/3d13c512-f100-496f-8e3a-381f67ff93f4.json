@@ -275,6 +275,7 @@
       "minecraft:creeper": "2025-06-02 02:36:08 +0000",
       "minecraft:witch": "2025-06-02 03:34:09 +0000",
       "minecraft:cave_spider": "2025-06-02 04:05:07 +0000",
+      "minecraft:enderman": "2025-06-03 01:43:59 +0000",
       "minecraft:zombie": "2025-06-02 02:53:26 +0000"
     },
     "done": false
@@ -408,6 +409,12 @@
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-06-02 04:59:28 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-03 01:41:50 +0000"
     },
     "done": true
   },
