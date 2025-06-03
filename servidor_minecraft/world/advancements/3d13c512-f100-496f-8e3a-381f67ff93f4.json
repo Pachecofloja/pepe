@@ -418,5 +418,11 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-06-03 02:20:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
