@@ -2589,3 +2589,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 01:37:14.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Monster Hunter]
 [05Jun2025 01:37:53.162] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18084, l='ServerLevel[world]', x=-567.50, y=79.00, z=-363.50]
 [05Jun2025 01:40:42.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Hot Stuff]
+[05Jun2025 01:45:18.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was shot by Pillager
+[05Jun2025 01:45:19.000] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 01:47:43.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> xaero-waypoint:CASA:C:-497:78:97:5:false:0:Internal-overworld-waypoints
+[05Jun2025 01:48:00.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Safe Haven]
+[05Jun2025 01:48:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Call For Adventure]
+[05Jun2025 01:50:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> xaero-waypoint:MOLINO:M:-806:97:4:9:false:0:Internal-overworld-waypoints
+[05Jun2025 01:52:05.286] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jun2025 01:52:05.287] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Jun2025 01:52:05.288] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 19 apple
+[05Jun2025 01:52:05.288] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Jun2025 01:52:05.289] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[05Jun2025 01:52:25.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Fortuitous Militia]
