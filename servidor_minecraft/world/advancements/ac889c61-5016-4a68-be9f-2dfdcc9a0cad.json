@@ -209,6 +209,7 @@
     "criteria": {
       "cooked_beef": "2025-06-02 02:14:06 +0000",
       "apple": "2025-06-02 03:43:48 +0000",
+      "pumpkin_pie": "2025-06-05 03:00:58 +0000",
       "bread": "2025-06-02 03:34:53 +0000",
       "golden_apple": "2025-06-02 03:46:25 +0000",
       "golden_carrot": "2025-06-02 03:24:37 +0000",
@@ -579,17 +580,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-05 02:26:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-05 02:26:29 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-06-05 02:26:23 +0000"
+      "glow_berries": "2025-06-05 03:04:04 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

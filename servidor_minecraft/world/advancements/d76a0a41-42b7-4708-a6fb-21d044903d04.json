@@ -278,6 +278,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-05 03:00:00 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-06-05 01:48:27 +0000"
@@ -322,6 +328,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 02:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:vindicator": "2025-06-05 01:37:14 +0000"
@@ -355,6 +367,12 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-06-05 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-05 02:57:52 +0000"
     },
     "done": true
   },
