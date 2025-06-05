@@ -194,7 +194,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-06-05 01:19:37 +0000"
+      "baked_potato": "2025-06-05 01:19:37 +0000",
+      "bread": "2025-06-05 02:53:48 +0000"
     },
     "done": false
   },
@@ -246,6 +247,12 @@
       "earth": "2025-06-05 02:10:41 +0000"
     },
     "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 02:53:32 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
@@ -366,6 +373,18 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-06-05 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 02:53:32 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-06-05 02:53:32 +0000"
     },
     "done": true
   },
