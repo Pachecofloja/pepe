@@ -513,5 +513,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-06-05 01:54:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
