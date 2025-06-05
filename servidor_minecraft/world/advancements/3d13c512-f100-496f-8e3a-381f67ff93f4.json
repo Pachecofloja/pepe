@@ -282,6 +282,7 @@
       "minecraft:spider": "2025-06-02 02:59:58 +0000",
       "minecraft:creeper": "2025-06-02 02:36:08 +0000",
       "minecraft:witch": "2025-06-02 03:34:09 +0000",
+      "minecraft:wither_skeleton": "2025-06-05 02:24:56 +0000",
       "minecraft:cave_spider": "2025-06-02 04:05:07 +0000",
       "minecraft:enderman": "2025-06-03 01:43:59 +0000",
       "minecraft:zombie": "2025-06-02 02:53:26 +0000",
@@ -533,6 +534,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-05 01:33:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 02:29:26 +0000"
     },
     "done": true
   },
