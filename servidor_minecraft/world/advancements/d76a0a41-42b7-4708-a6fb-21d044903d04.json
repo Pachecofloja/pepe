@@ -318,6 +318,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-05 02:26:12 +0000",
       "minecraft:vindicator": "2025-06-05 01:37:14 +0000",
+      "minecraft:spider": "2025-06-05 03:07:05 +0000",
       "minecraft:zombie": "2025-06-05 01:49:25 +0000"
     },
     "done": false

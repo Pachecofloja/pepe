@@ -525,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-05 03:07:17 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-06-05 01:58:36 +0000"
