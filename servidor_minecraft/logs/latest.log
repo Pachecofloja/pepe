@@ -2711,3 +2711,77 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 02:03:49.722] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
 [05Jun2025 02:03:49.728] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
 [05Jun2025 02:03:49.732] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05Jun2025 02:03:57.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! -8.469574377469826,-0.8245767040478995,-5.496746631183328
+[05Jun2025 02:03:57.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -5.67202067545395,0.0,-8.69742283521174
+[05Jun2025 02:03:57.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -5.889736295266175,0.0,-9.021010427956583
+[05Jun2025 02:03:57.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.108014634849496,0.0,-9.345423279148633
+[05Jun2025 02:03:57.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[05Jun2025 02:03:59.171] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1492, y=22, z=-520}
+[05Jun2025 02:03:59.171] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1492, y=22, z=-520}
+[05Jun2025 02:03:59.251] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1500, y=-4, z=-488}
+[05Jun2025 02:03:59.251] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1499, y=-4, z=-489}
+[05Jun2025 02:03:59.251] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1499, y=-4, z=-490}
+[05Jun2025 02:03:59.251] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1500, y=-4, z=-488}
+[05Jun2025 02:03:59.251] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1499, y=-4, z=-489}
+[05Jun2025 02:03:59.252] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1499, y=-4, z=-490}
+[05Jun2025 02:04:00.003] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/32757, l='ServerLevel[world]', x=-1491.50, y=22.00, z=-578.50] as it would cause deadlock
+[05Jun2025 02:04:01.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.496912033922456
+[05Jun2025 02:04:01.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.5534532605030336
+[05Jun2025 02:04:01.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.5534532605030336
+[05Jun2025 02:04:01.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.5901311425783433
+[05Jun2025 02:04:01.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.6598068651671838
+[05Jun2025 02:04:01.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.7591699034194903
+[05Jun2025 02:04:01.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.8852423086929662
+[05Jun2025 02:04:01.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 1.181145503857465
+[05Jun2025 02:04:01.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 1.3155941137345053
+[05Jun2025 02:04:01.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 1.4722611915503876
+[05Jun2025 02:04:05.101] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:04:06.434] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[05Jun2025 02:04:06.435] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[05Jun2025 02:04:06.435] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[05Jun2025 02:04:06.443] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[05Jun2025 02:04:06.443] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[05Jun2025 02:04:06.443] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[05Jun2025 02:04:06.784] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/32922, l='ServerLevel[world]', x=-1530.50, y=-28.00, z=-509.50] as it would cause deadlock
+[05Jun2025 02:04:09.506] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/32971, l='ServerLevel[world]', x=-1538.50, y=-28.00, z=-509.50] as it would cause deadlock
+[05Jun2025 02:04:09.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[05Jun2025 02:04:09.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[05Jun2025 02:04:09.597] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[05Jun2025 02:04:09.748] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1544, y=-43, z=-608}
+[05Jun2025 02:04:09.748] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1545, y=-43, z=-606}
+[05Jun2025 02:04:09.748] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1544, y=-43, z=-608}
+[05Jun2025 02:04:09.748] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1545, y=-43, z=-606}
+[05Jun2025 02:04:10.724] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33051, l='ServerLevel[world]', x=-1552.50, y=22.00, z=-651.50] as it would cause deadlock
+[05Jun2025 02:04:10.764] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[05Jun2025 02:04:11.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 1.0615542387788537,0.0,-10.083342124613239
+[05Jun2025 02:04:11.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 1.1031532328374851,0.0,-10.47117718898437
+[05Jun2025 02:04:11.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 1.1448677844321082,0.0,-10.859999586720733
+[05Jun2025 02:04:11.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 1.1866863378061225,0.0,-11.24971058446232
+[05Jun2025 02:04:16.717] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33242, l='ServerLevel[world]', x=-1592.50, y=-28.00, z=-633.50] as it would cause deadlock
+[05Jun2025 02:04:16.718] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33244, l='ServerLevel[world]', x=-1584.50, y=-28.00, z=-633.50] as it would cause deadlock
+[05Jun2025 02:04:16.842] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33253, l='ServerLevel[world]', x=-1592.50, y=-3.00, z=-683.50] as it would cause deadlock
+[05Jun2025 02:04:16.843] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33255, l='ServerLevel[world]', x=-1584.50, y=-3.00, z=-683.50] as it would cause deadlock
+[05Jun2025 02:05:04.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34205, l='ServerLevel[world]', x=-1229.50, y=72.00, z=-535.50]
+[05Jun2025 02:06:13.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Diamonds!]
+[05Jun2025 02:06:34.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -2.0396804570584663,1.2491870787446828,-9.77352737258525
+[05Jun2025 02:07:16.905] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[05Jun2025 02:07:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Your First Receptacle]
+[05Jun2025 02:07:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Funeral Theft]
+[05Jun2025 02:08:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Knowledge raises the soul]
+[05Jun2025 02:08:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Die Classy]
+[05Jun2025 02:09:05.037] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:09:42.666] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:09:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Good Boy!]
+[05Jun2025 02:10:10.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38976, l='ServerLevel[world]', x=-1352.50, y=71.00, z=-344.50]
+[05Jun2025 02:10:28.953] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:10:36.349] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:11:15.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40681, l='ServerLevel[world]', x=-883.50, y=73.00, z=-183.50]
+[05Jun2025 02:11:33.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41105, l='ServerLevel[world]', x=-807.50, y=74.00, z=-168.50]
+[05Jun2025 02:12:17.190] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:12:23.797] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:12:38.841] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:12:51.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42385, l='ServerLevel[world]', x=-1380.50, y=71.00, z=-341.50]
+[05Jun2025 02:12:59.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42575, l='ServerLevel[world]', x=-1382.50, y=70.00, z=-356.50]
+[05Jun2025 02:13:47.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43114, l='ServerLevel[world]', x=-1401.50, y=73.00, z=-354.50]
+[05Jun2025 02:14:05.009] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Jun2025 02:14:08.241] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []

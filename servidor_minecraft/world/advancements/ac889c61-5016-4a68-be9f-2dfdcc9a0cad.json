@@ -116,8 +116,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-05 02:03:13 +0000",
       "minecraft:sunflower_plains": "2025-06-02 02:02:12 +0000",
+      "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:river": "2025-06-02 02:01:52 +0000",
+      "minecraft:forest": "2025-06-05 02:06:51 +0000",
+      "minecraft:ocean": "2025-06-05 02:01:18 +0000",
       "minecraft:flower_forest": "2025-06-02 03:07:50 +0000",
       "minecraft:plains": "2025-06-02 02:01:56 +0000"
     },
@@ -125,6 +129,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-05 02:06:59 +0000",
       "entered_ruined_building": "2025-06-02 02:02:34 +0000"
     },
     "done": false
@@ -294,6 +299,7 @@
     "criteria": {
       "woodland": "2025-06-02 02:45:34 +0000",
       "shrubland": "2025-06-02 02:37:39 +0000",
+      "rocky_shrubland": "2025-06-05 02:01:49 +0000",
       "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
       "spider_nest": "2025-06-02 05:13:07 +0000",
@@ -507,6 +513,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 02:02:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-06-05 01:36:27 +0000"
@@ -519,9 +531,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-05 02:07:52 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-06-05 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 02:02:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-06-05 02:02:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 02:07:52 +0000"
     },
     "done": true
   },
