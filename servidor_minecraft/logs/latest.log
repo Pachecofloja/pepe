@@ -3390,3 +3390,44 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [05Jun2025 03:25:12.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro went off with a bang
 [05Jun2025 03:25:12.293] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [05Jun2025 03:25:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[05Jun2025 03:26:41.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[05Jun2025 03:26:41.837] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 03:26:41.909] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jun2025 03:26:41.910] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[05Jun2025 03:26:41.910] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Jun2025 03:26:41.910] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Jun2025 03:26:41.910] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[05Jun2025 03:26:53.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Skeleton
+[05Jun2025 03:26:53.383] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[05Jun2025 03:26:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[05Jun2025 03:26:57.636] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 03:27:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[05Jun2025 03:27:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was blown up by Creeper
+[05Jun2025 03:27:37.147] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 03:27:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[05Jun2025 03:27:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[05Jun2025 03:27:45.985] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 03:28:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[05Jun2025 03:28:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 drowned
+[05Jun2025 03:28:25.993] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[05Jun2025 03:28:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[05Jun2025 03:28:45.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro drowned whilst trying to escape Skeleton
+[05Jun2025 03:28:45.585] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[05Jun2025 03:28:48.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[05Jun2025 03:29:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[05Jun2025 03:29:16.431] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[05Jun2025 03:30:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Skeleton
+[05Jun2025 03:30:30.431] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[05Jun2025 03:30:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[05Jun2025 03:30:50.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[05Jun2025 03:30:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to Angelichi25]
+[05Jun2025 03:31:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Skeleton
+[05Jun2025 03:31:39.332] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[05Jun2025 03:31:39.503] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jun2025 03:31:39.504] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[05Jun2025 03:31:39.504] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Jun2025 03:31:39.504] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Jun2025 03:31:39.504] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Jun2025 03:32:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to SrArthuro]
+[05Jun2025 03:32:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[05Jun2025 03:33:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Acquire Hardware]
