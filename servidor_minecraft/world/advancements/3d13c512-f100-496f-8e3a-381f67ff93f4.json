@@ -464,6 +464,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-06-05 01:37:08 +0000",
       "potato": "2025-06-03 02:34:26 +0000"
     },
     "done": false
@@ -501,6 +502,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-06-03 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 01:33:47 +0000"
     },
     "done": true
   },
