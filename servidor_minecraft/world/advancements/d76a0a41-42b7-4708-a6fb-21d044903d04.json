@@ -296,6 +296,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-05 03:48:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-06-05 02:08:48 +0000"
@@ -374,6 +380,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-06-05 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 03:47:25 +0000"
     },
     "done": true
   },
