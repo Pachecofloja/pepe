@@ -6159,3 +6159,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jun2025 04:49:07.978] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [07Jun2025 04:50:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
 [07Jun2025 04:50:08.812] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:55:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [What a Deal!]
+[07Jun2025 04:55:41.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [What a Deal!]
+[07Jun2025 04:57:26.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Cover Me with Diamonds]

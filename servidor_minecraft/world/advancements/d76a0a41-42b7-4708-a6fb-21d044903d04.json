@@ -113,6 +113,7 @@
       "minecraft:sunflower_plains": "2025-06-05 01:11:42 +0000",
       "minecraft:beach": "2025-06-05 01:28:15 +0000",
       "minecraft:river": "2025-06-05 01:27:39 +0000",
+      "minecraft:dripstone_caves": "2025-06-07 04:49:22 +0000",
       "minecraft:forest": "2025-06-05 01:28:29 +0000",
       "minecraft:flower_forest": "2025-06-05 01:53:14 +0000",
       "minecraft:meadow": "2025-06-05 01:30:06 +0000",
@@ -464,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-07 04:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-07 04:31:32 +0000"
@@ -479,6 +486,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-07 04:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-07 04:55:23 +0000"
     },
     "done": true
   },
