@@ -281,6 +281,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 02:46:09 +0000",
       "minecraft:skeleton": "2025-06-02 02:34:15 +0000",
+      "minecraft:ravager": "2025-06-07 03:35:57 +0000",
       "minecraft:vindicator": "2025-06-03 02:33:34 +0000",
       "minecraft:spider": "2025-06-02 02:59:58 +0000",
       "minecraft:creeper": "2025-06-02 02:36:08 +0000",
@@ -565,9 +566,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 03:35:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-07 03:14:47 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-07 03:38:51 +0000"
     },
     "done": true
   },

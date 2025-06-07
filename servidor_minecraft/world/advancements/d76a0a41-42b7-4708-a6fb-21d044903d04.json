@@ -195,7 +195,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-06-05 01:19:37 +0000",
-      "bread": "2025-06-05 02:53:48 +0000"
+      "bread": "2025-06-05 02:53:48 +0000",
+      "cookie": "2025-06-07 03:40:30 +0000"
     },
     "done": false
   },
@@ -440,6 +441,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-06-07 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-07 03:43:42 +0000"
     },
     "done": true
   },
