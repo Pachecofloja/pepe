@@ -6106,3 +6106,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jun2025 04:08:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro fell from a high place
 [07Jun2025 04:08:29.612] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [07Jun2025 04:09:06.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/38377, l='ServerLevel[world]', x=-12.84, y=207.00, z=61.50] died: Gearling was slain by Angelichi25
+[07Jun2025 04:10:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Skeleton
+[07Jun2025 04:10:22.032] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:10:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 04:11:03.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 04:13:06.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/40684, l='ServerLevel[world]', x=-17.17, y=212.00, z=101.10] died: Gearling was slain by Angelichi25
+[07Jun2025 04:13:06.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 47.500000, 167.000000, 48.500000]
+[07Jun2025 04:13:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro fell from a high place
+[07Jun2025 04:13:08.430] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:13:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 46.500000, 167.000000, 48.500000]
+[07Jun2025 04:13:48.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/40747, l='ServerLevel[world]', x=-15.83, y=212.00, z=128.14] died: Gearling was slain by Angelichi25
+[07Jun2025 04:14:02.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was doomed to fall
+[07Jun2025 04:14:02.231] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[07Jun2025 04:14:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[07Jun2025 04:15:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 32.500000, 166.000000, -63.500000]
+[07Jun2025 04:15:14.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro fell from a high place
+[07Jun2025 04:15:14.093] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:15:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 32.500000, 166.000000, -63.500000]
+[07Jun2025 04:15:19.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 32.500000, 166.000000, -63.500000]
+[07Jun2025 04:15:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to 32.500000, 166.000000, -63.500000]
+[07Jun2025 04:16:55.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SrArthuro> xaero-waypoint:CASA:C:-497:78:97:5:false:0:External
+[07Jun2025 04:18:48.518] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:19:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD went off with a bang
+[07Jun2025 04:19:33.627] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
