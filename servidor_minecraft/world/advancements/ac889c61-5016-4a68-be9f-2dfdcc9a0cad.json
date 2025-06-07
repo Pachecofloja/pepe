@@ -593,17 +593,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-06-05 03:37:22 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-06-05 03:04:04 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-06-05 03:37:22 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
