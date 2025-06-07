@@ -260,7 +260,8 @@
       "minecraft:vindicator": "2025-06-05 01:37:14 +0000",
       "minecraft:spider": "2025-06-05 03:07:05 +0000",
       "minecraft:creeper": "2025-06-07 03:51:09 +0000",
-      "minecraft:zombie": "2025-06-05 01:49:25 +0000"
+      "minecraft:zombie": "2025-06-05 01:49:25 +0000",
+      "minecraft:zombie_villager": "2025-06-07 04:44:50 +0000"
     },
     "done": false
   },
@@ -484,6 +485,18 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-06-07 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-06-07 04:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-07 04:44:23 +0000"
     },
     "done": true
   },

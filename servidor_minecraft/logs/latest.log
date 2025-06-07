@@ -6147,3 +6147,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jun2025 04:33:24.522] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [07Jun2025 04:35:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Voluntary Exile]
 [07Jun2025 04:39:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Bypassing the Expiration Date]
+[07Jun2025 04:43:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Zombie Doctor]
+[07Jun2025 04:44:07.978] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:44:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Ol' Betsy]
+[07Jun2025 04:44:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro withered away whilst fighting Nightmare Stalker
+[07Jun2025 04:44:58.534] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:44:59.622] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:46:17.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56994, l='ServerLevel[world]', x=-234.37, y=68.00, z=-180.20] died, message: 'Villager was slain by Zombie'
+[07Jun2025 04:46:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Dark Metallurgy]
+[07Jun2025 04:48:51.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/56804, l='ServerLevel[world]', x=-249.52, y=85.00, z=-138.15] died, message: 'Fisherman was slain by Zombie'
+[07Jun2025 04:49:07.978] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:50:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 04:50:08.812] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
