@@ -196,7 +196,9 @@
     "criteria": {
       "baked_potato": "2025-06-05 01:19:37 +0000",
       "bread": "2025-06-05 02:53:48 +0000",
-      "cookie": "2025-06-07 03:40:30 +0000"
+      "golden_apple": "2025-06-07 03:48:31 +0000",
+      "cookie": "2025-06-07 03:40:30 +0000",
+      "carrot": "2025-06-07 03:50:25 +0000"
     },
     "done": false
   },
@@ -251,8 +253,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-05 02:26:12 +0000",
+      "minecraft:ravager": "2025-06-07 03:48:59 +0000",
       "minecraft:vindicator": "2025-06-05 01:37:14 +0000",
       "minecraft:spider": "2025-06-05 03:07:05 +0000",
+      "minecraft:creeper": "2025-06-07 03:51:09 +0000",
       "minecraft:zombie": "2025-06-05 01:49:25 +0000"
     },
     "done": false

@@ -5819,3 +5819,142 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jun2025 03:47:25.219] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [07Jun2025 03:47:31.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
 [07Jun2025 03:47:50.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25773, l='ServerLevel[world]', x=-9.36, y=201.00, z=46.50] died: Gearling was doomed to fall by SrArthuro
+[07Jun2025 03:49:49.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25994, l='ServerLevel[world]', x=-11.43, y=207.00, z=64.22] died: Gearling hit the ground too hard
+[07Jun2025 03:49:56.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25806, l='ServerLevel[world]', x=-14.59, y=207.00, z=64.15] died: Gearling fell from a high place
+[07Jun2025 03:49:58.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25805, l='ServerLevel[world]', x=-21.65, y=215.00, z=64.65] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:50:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:50:08.723] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:50:20.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:50:20.871] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:50:29.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26394, l='ServerLevel[world]', x=-23.13, y=216.00, z=65.26] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:29.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26365, l='ServerLevel[world]', x=-23.52, y=216.00, z=65.61] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:31.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26059, l='ServerLevel[world]', x=-23.38, y=216.00, z=65.85] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:31.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26428, l='ServerLevel[world]', x=-23.46, y=216.00, z=65.25] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:34.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26058, l='ServerLevel[world]', x=-23.23, y=216.00, z=65.85] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:36.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27127, l='ServerLevel[world]', x=-22.60, y=215.50, z=65.69] died: Gearling was slain by Angelichi25
+[07Jun2025 03:50:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:50:46.329] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:50:48.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27140, l='ServerLevel[world]', x=-25.27, y=216.50, z=65.63] died: Gearling was slain by Angelichi25
+[07Jun2025 03:51:10.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/26395, l='ServerLevel[world]', x=-11.11, y=207.00, z=64.94] died: Gearling hit the ground too hard
+[07Jun2025 03:51:46.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27548, l='ServerLevel[world]', x=-12.15, y=202.00, z=83.02] died: Gearling fell from a high place
+[07Jun2025 03:51:55.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27658, l='ServerLevel[world]', x=-21.64, y=213.50, z=61.85] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:51:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:51:56.471] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:52:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:52:19.474] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:52:20.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27520, l='ServerLevel[world]', x=-17.43, y=207.00, z=63.62] died: Gearling fell from a high place
+[07Jun2025 03:52:23.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27159, l='ServerLevel[world]', x=-24.98, y=211.00, z=64.75] died: Gearling was slain by Angelichi25
+[07Jun2025 03:52:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:52:33.069] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:53:06.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:53:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:53:10.669] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:53:11.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27627, l='ServerLevel[world]', x=-14.75, y=207.00, z=64.16] died: Gearling fell from a high place
+[07Jun2025 03:53:13.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27669, l='ServerLevel[world]', x=-17.68, y=207.00, z=63.47] died: Gearling fell from a high place
+[07Jun2025 03:53:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:53:20.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27571, l='ServerLevel[world]', x=-22.14, y=208.00, z=62.53] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:20.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28029, l='ServerLevel[world]', x=-22.03, y=208.00, z=62.23] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:21.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27839, l='ServerLevel[world]', x=-22.12, y=208.00, z=62.52] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:23.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27742, l='ServerLevel[world]', x=-21.97, y=208.00, z=62.07] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:25.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27559, l='ServerLevel[world]', x=-22.09, y=208.00, z=62.49] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:28.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28143, l='ServerLevel[world]', x=-21.98, y=208.00, z=62.85] died: Gearling was slain by Angelichi25
+[07Jun2025 03:53:35.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27701, l='ServerLevel[world]', x=-23.17, y=207.00, z=61.34] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:35.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27540, l='ServerLevel[world]', x=-23.57, y=207.00, z=61.79] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:35.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27628, l='ServerLevel[world]', x=-22.83, y=207.50, z=61.41] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:36.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27837, l='ServerLevel[world]', x=-23.46, y=207.00, z=61.50] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:36.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28083, l='ServerLevel[world]', x=-23.87, y=207.00, z=61.59] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:36.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28156, l='ServerLevel[world]', x=-23.29, y=207.00, z=61.85] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:36.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27949, l='ServerLevel[world]', x=-23.92, y=207.00, z=61.15] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:53:36.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28136, l='ServerLevel[world]', x=-23.52, y=207.00, z=61.15] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:54:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:54:02.468] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:54:04.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27568, l='ServerLevel[world]', x=-21.82, y=207.00, z=59.06] died: Gearling was slain by Angelichi25
+[07Jun2025 03:54:04.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27939, l='ServerLevel[world]', x=-21.86, y=207.00, z=59.39] died: Gearling was slain by Angelichi25
+[07Jun2025 03:54:04.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27546, l='ServerLevel[world]', x=-21.47, y=207.00, z=59.68] died: Gearling was slain by Angelichi25
+[07Jun2025 03:54:04.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28312, l='ServerLevel[world]', x=-21.79, y=207.00, z=59.70] died: Gearling was slain by Angelichi25
+[07Jun2025 03:54:05.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28338, l='ServerLevel[world]', x=-20.98, y=207.00, z=59.60] died: Gearling was slain by Angelichi25
+[07Jun2025 03:54:16.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:54:25.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28344, l='ServerLevel[world]', x=-14.75, y=207.00, z=64.15] died: Gearling fell from a high place
+[07Jun2025 03:54:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:54:34.725] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:54:39.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28309, l='ServerLevel[world]', x=-14.78, y=207.00, z=64.15] died: Gearling fell from a high place
+[07Jun2025 03:54:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[07Jun2025 03:54:40.075] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[07Jun2025 03:54:42.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:54:42.981] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:54:46.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28429, l='ServerLevel[world]', x=-23.40, y=209.00, z=62.13] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:54:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:54:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[07Jun2025 03:54:58.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:54:58.519] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:55:25.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28349, l='ServerLevel[world]', x=-23.56, y=207.00, z=59.49] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:25.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29398, l='ServerLevel[world]', x=-23.02, y=207.00, z=59.49] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:29.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28559, l='ServerLevel[world]', x=-24.49, y=207.00, z=62.28] died: Gearling was slain by SrArthuro
+[07Jun2025 03:55:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:55:31.366] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:55:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:55:36.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29822, l='ServerLevel[world]', x=-23.63, y=207.00, z=61.49] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:37.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29000, l='ServerLevel[world]', x=-23.90, y=207.00, z=61.16] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:37.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29877, l='ServerLevel[world]', x=-20.16, y=209.50, z=62.48] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:55:38.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29855, l='ServerLevel[world]', x=-24.77, y=207.00, z=61.76] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:38.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28410, l='ServerLevel[world]', x=-23.89, y=207.00, z=61.85] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:42.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28352, l='ServerLevel[world]', x=-24.77, y=207.00, z=61.84] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:44.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28376, l='ServerLevel[world]', x=-24.76, y=207.00, z=61.77] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:45.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28413, l='ServerLevel[world]', x=-25.85, y=207.00, z=61.15] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:46.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28565, l='ServerLevel[world]', x=-24.15, y=207.00, z=62.85] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:47.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28423, l='ServerLevel[world]', x=-24.86, y=207.00, z=61.91] died: Gearling was slain by Angelichi25
+[07Jun2025 03:55:52.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[07Jun2025 03:55:52.172] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[07Jun2025 03:55:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[07Jun2025 03:56:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[07Jun2025 03:56:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:56:06.376] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:56:11.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28556, l='ServerLevel[world]', x=-22.85, y=207.50, z=61.56] died: Gearling was slain by Angelichi25
+[07Jun2025 03:56:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:56:19.417] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:56:30.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:56:30.376] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:56:32.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29879, l='ServerLevel[world]', x=-14.74, y=207.00, z=64.47] died: Gearling fell from a high place
+[07Jun2025 03:56:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:56:43.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:56:48.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27554, l='ServerLevel[world]', x=-22.89, y=209.00, z=61.09] died: Gearling was slain by ThebrosXD
+[07Jun2025 03:56:54.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:56:54.129] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:57:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:57:03.167] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:57:07.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:57:08.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28562, l='ServerLevel[world]', x=-14.74, y=207.00, z=64.15] died: Gearling fell from a high place
+[07Jun2025 03:57:10.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30020, l='ServerLevel[world]', x=-14.78, y=207.00, z=64.34] died: Gearling fell from a high place
+[07Jun2025 03:57:22.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30074, l='ServerLevel[world]', x=-19.58, y=207.00, z=57.92] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:27.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:57:27.466] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:57:27.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30365, l='ServerLevel[world]', x=-21.26, y=207.00, z=58.59] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:27.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30958, l='ServerLevel[world]', x=-21.01, y=207.00, z=58.30] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:28.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30834, l='ServerLevel[world]', x=-21.02, y=207.00, z=68.22] died: Gearling was blown up by Creeper
+[07Jun2025 03:57:28.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31005, l='ServerLevel[world]', x=-17.08, y=207.00, z=65.63] died: Gearling was blown up by Creeper
+[07Jun2025 03:57:29.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30961, l='ServerLevel[world]', x=-21.86, y=207.00, z=58.95] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:30.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30808, l='ServerLevel[world]', x=-21.25, y=207.00, z=58.39] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:31.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:57:31.821] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:57:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:57:44.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30009, l='ServerLevel[world]', x=-14.72, y=207.00, z=64.24] died: Gearling fell from a high place
+[07Jun2025 03:57:50.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31341, l='ServerLevel[world]', x=-24.14, y=207.00, z=59.20] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:50.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31348, l='ServerLevel[world]', x=-24.33, y=207.83, z=59.80] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:51.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32039, l='ServerLevel[world]', x=-22.28, y=207.00, z=59.04] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:51.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32034, l='ServerLevel[world]', x=-22.05, y=207.00, z=57.84] died: Gearling was slain by Angelichi25
+[07Jun2025 03:57:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Gearling
+[07Jun2025 03:57:51.573] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:57:52.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Gearling
+[07Jun2025 03:57:52.366] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[07Jun2025 03:57:52.383] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Jun2025 03:57:52.383] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[07Jun2025 03:57:52.383] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Jun2025 03:57:52.383] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Jun2025 03:57:52.383] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[07Jun2025 03:57:52.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved wrongly!
+[07Jun2025 03:57:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Gearling
+[07Jun2025 03:57:53.527] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:57:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:58:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to SrArthuro]
+[07Jun2025 03:58:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:58:41.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
