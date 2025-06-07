@@ -5663,3 +5663,29 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [07Jun2025 03:23:28.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/14785, l='ServerLevel[world]', x=28.15, y=274.00, z=61.15] died: Gearling was slain by ThebrosXD
 [07Jun2025 03:23:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has completed the challenge [Eye of the Tiger]
 [07Jun2025 03:25:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Hidden in the Depths]
+[07Jun2025 03:31:42.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Life turned out to be a comedy]
+[07Jun2025 03:34:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Ravager
+[07Jun2025 03:34:46.569] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:34:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported SrArthuro to ThebrosXD]
+[07Jun2025 03:35:41.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Ravager
+[07Jun2025 03:35:41.968] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:35:50.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Ravager
+[07Jun2025 03:35:50.670] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:35:55.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:35:57.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has completed the challenge [Village Defender]
+[07Jun2025 03:35:58.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 was slain by Ravager
+[07Jun2025 03:35:58.668] [Server thread/INFO] [tombstone/]: The player Angelichi25 has successfully been saved
+[07Jun2025 03:36:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Ravager
+[07Jun2025 03:36:00.168] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:36:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Skeleton
+[07Jun2025 03:36:05.786] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:36:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to SrArthuro]
+[07Jun2025 03:36:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[07Jun2025 03:36:06.992] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:36:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
+[07Jun2025 03:37:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported 3 entities to ThebrosXD]
+[07Jun2025 03:37:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Skeleton
+[07Jun2025 03:37:47.766] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[07Jun2025 03:37:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Skeleton
+[07Jun2025 03:37:52.178] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 03:37:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi25]
