@@ -6138,3 +6138,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jun2025 04:27:33.281] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
 [07Jun2025 04:28:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Fortuitous Militia]
 [07Jun2025 04:28:41.468] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Jun2025 04:31:04.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Dread Hound
+[07Jun2025 04:31:04.542] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:31:32.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Sweet Dreams]
+[07Jun2025 04:32:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Zombie Bruiser
+[07Jun2025 04:32:33.838] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:33:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Zombie Bruiser
+[07Jun2025 04:33:24.522] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[07Jun2025 04:35:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Voluntary Exile]
+[07Jun2025 04:39:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has made the advancement [Bypassing the Expiration Date]
