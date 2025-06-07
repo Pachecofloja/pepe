@@ -611,5 +611,11 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-06-07 02:08:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
