@@ -447,6 +447,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-06-07 03:23:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-06-07 03:31:42 +0000"
@@ -465,9 +471,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "diamond_helmet": "2025-06-07 04:57:26 +0000"
+      "coded_trigger": "2025-06-07 04:28:29 +0000"
     },
     "done": true
   },
@@ -483,24 +489,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-07 04:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-07 04:55:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-06-07 03:23:36 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-06-07 04:39:09 +0000"
@@ -510,6 +498,18 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-07 04:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-07 04:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-07 04:57:26 +0000"
     },
     "done": true
   },
