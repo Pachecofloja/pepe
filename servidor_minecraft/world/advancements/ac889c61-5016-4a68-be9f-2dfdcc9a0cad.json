@@ -356,7 +356,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-06-02 02:46:17 +0000"
+      "illager_camp": "2025-06-02 02:46:17 +0000",
+      "illager_hideout": "2025-06-12 02:48:12 +0000"
     },
     "done": false
   },

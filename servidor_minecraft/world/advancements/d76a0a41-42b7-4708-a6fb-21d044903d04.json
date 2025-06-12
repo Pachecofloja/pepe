@@ -513,5 +513,17 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2025-06-12 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lavender_field": "2025-06-12 02:54:19 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
