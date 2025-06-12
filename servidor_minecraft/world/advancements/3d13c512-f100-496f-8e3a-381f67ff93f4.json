@@ -322,8 +322,11 @@
       "rocky_shrubland": "2025-06-02 03:00:41 +0000",
       "scrubland": "2025-06-02 02:45:54 +0000",
       "highland": "2025-06-12 02:31:19 +0000",
+      "coniferous_forest": "2025-06-12 02:37:15 +0000",
       "dune_beach": "2025-06-12 02:29:55 +0000",
+      "seasonal_forest": "2025-06-12 02:44:11 +0000",
       "pasture": "2025-06-02 02:37:14 +0000",
+      "lavender_field": "2025-06-12 02:41:59 +0000",
       "prairie": "2025-06-02 02:38:20 +0000",
       "grassland": "2025-06-02 02:44:40 +0000"
     },
@@ -385,7 +388,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_druid_circle": "2025-06-02 03:03:10 +0000"
+      "entered_tower_of_the_undead": "2025-06-12 02:39:33 +0000",
+      "entered_druid_circle": "2025-06-02 03:03:10 +0000",
+      "entered_ruined_building": "2025-06-12 02:43:29 +0000"
     },
     "done": false
   },
