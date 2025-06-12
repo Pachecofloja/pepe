@@ -2881,3 +2881,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jun2025 03:02:52.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46516, l='ServerLevel[world]', x=-1564.26, y=14.14, z=-986.73] died, message: 'Villager was killed by Witch using magic'
 [12Jun2025 03:05:21.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/46528, l='ServerLevel[world]', x=-1593.90, y=88.00, z=-904.69] died, message: 'Cartographer hit the ground too hard'
 [12Jun2025 03:06:29.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46515, l='ServerLevel[world]', x=-1556.59, y=35.00, z=-988.87] died, message: 'Villager was shot by Pillager'
+[12Jun2025 03:09:20.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD drowned
+[12Jun2025 03:09:20.291] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[12Jun2025 03:09:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Vex
+[12Jun2025 03:09:23.429] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[12Jun2025 03:10:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Who's the Pillager Now?]
+[12Jun2025 03:10:22.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has completed the challenge [Village Defender]
+[12Jun2025 03:12:20.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46588, l='ServerLevel[world]', x=-1592.14, y=90.00, z=-942.54] died, message: 'Villager hit the ground too hard'
