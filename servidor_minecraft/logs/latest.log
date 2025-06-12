@@ -2871,3 +2871,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jun2025 02:53:16.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -4.225317884733158,-5.323529123855721,7.638965223016385
 [12Jun2025 02:54:21.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46605, l='ServerLevel[world]', x=-1583.44, y=11.03, z=-980.70] died, message: 'Villager drowned'
 [12Jun2025 02:55:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[12Jun2025 02:58:47.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Postmortal]
+[12Jun2025 02:58:47.880] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[12Jun2025 02:59:13.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46566, l='ServerLevel[world]', x=-1572.51, y=22.00, z=-957.10] died, message: 'Villager was slain by Zombie'
+[12Jun2025 02:59:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD was slain by Vindicator
+[12Jun2025 02:59:51.138] [Server thread/INFO] [tombstone/]: The player ThebrosXD has successfully been saved
+[12Jun2025 03:00:16.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was slain by Vex
+[12Jun2025 03:00:16.077] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[12Jun2025 03:02:52.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46516, l='ServerLevel[world]', x=-1564.26, y=14.14, z=-986.73] died, message: 'Villager was killed by Witch using magic'
+[12Jun2025 03:05:21.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/46528, l='ServerLevel[world]', x=-1593.90, y=88.00, z=-904.69] died, message: 'Cartographer hit the ground too hard'
+[12Jun2025 03:06:29.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46515, l='ServerLevel[world]', x=-1556.59, y=35.00, z=-988.87] died, message: 'Villager was shot by Pillager'

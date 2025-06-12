@@ -261,6 +261,9 @@
       "minecraft:vindicator": "2025-06-05 01:37:14 +0000",
       "minecraft:spider": "2025-06-05 03:07:05 +0000",
       "minecraft:creeper": "2025-06-07 03:51:09 +0000",
+      "minecraft:evoker": "2025-06-12 02:58:24 +0000",
+      "minecraft:witch": "2025-06-12 02:57:43 +0000",
+      "minecraft:vex": "2025-06-12 02:58:19 +0000",
       "minecraft:zombie": "2025-06-05 01:49:25 +0000",
       "minecraft:zombie_villager": "2025-06-07 04:44:50 +0000"
     },
@@ -513,6 +516,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_hideout": "2025-06-12 02:55:57 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "lavender_field": "2025-06-12 02:54:19 +0000"
@@ -524,6 +533,12 @@
       "lavender_field": "2025-06-12 02:54:19 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-12 02:58:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
