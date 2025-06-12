@@ -2811,3 +2811,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jun2025 02:25:40.027] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jun2025 02:25:40.027] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jun2025 02:25:40.027] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[12Jun2025 02:29:09.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29473, l='ServerLevel[world]', x=-835.50, y=72.00, z=-163.50]
+[12Jun2025 02:29:33.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29753, l='ServerLevel[world]', x=-741.50, y=73.00, z=-297.50]
+[12Jun2025 02:29:50.546] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30039, l='ServerLevel[world]', x=-881.50, y=73.00, z=-183.50]
+[12Jun2025 02:29:51.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30048, l='ServerLevel[world]', x=-836.50, y=72.00, z=-162.50]
+[12Jun2025 02:29:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[12Jun2025 02:31:05.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 2.4419681859075126,0.24918707874468282,-9.744512406784906
+[12Jun2025 02:34:50.195] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32907, l='ServerLevel[world]', x=-1054.50, y=57.00, z=-329.50]
+[12Jun2025 02:35:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> correeeeeeeeeeeeeeeeeeeeeee
