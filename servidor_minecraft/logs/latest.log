@@ -2319,3 +2319,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jun2025 01:53:07.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13891, l='ServerLevel[world]', x=36.62, y=276.00, z=64.28] died: Gearling was slain by Angelichi25
 [12Jun2025 01:53:14.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13917, l='ServerLevel[world]', x=36.69, y=275.00, z=64.77] died: Gearling was slain by Angelichi25
 [12Jun2025 01:53:19.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13929, l='ServerLevel[world]', x=35.37, y=275.00, z=64.73] died: Gearling was slain by Angelichi25
+[12Jun2025 01:57:39.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13907, l='ServerLevel[world]', x=39.12, y=276.25, z=68.01] died: Gearling was slain by Gearling
+[12Jun2025 01:57:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Teleported Angelichi25 to ThebrosXD]
+[12Jun2025 02:03:10.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 8.661751477746861,0.7518640014090607,5.615968671763937
+[12Jun2025 02:03:32.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 8.030643372418012,-1.0,-6.103714263661345
+[12Jun2025 02:04:59.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 6.99615697581828,0.14168517272452164,7.275569358578366
